@@ -1,0 +1,2859 @@
+## Regions ##
+Achnauder = {		#1 areas
+	areas = {
+		Achnauder
+		
+	}
+}
+
+pommern = {		#3 areas
+	areas = {
+		brandenburg
+		mecklenburg
+		pomerania
+		
+	}
+}
+
+navarra = {		#1 areas
+	areas = {
+		navarra
+		
+	}
+}
+
+venice = {		#4 areas
+	areas = {
+		padua
+		vicenza
+		venice
+		ferrara
+		
+	}
+}
+
+Mukenlapitida = {		#5 areas
+	areas = {
+		Chaldicaeados
+		Ankmaronllai
+		Keramarylea
+		Chalkalliosia
+		Elithlea
+		
+	}
+}
+
+Elmetapmea = {		#4 areas
+	areas = {
+		Hellesialyae
+		Ydlekhaus
+		Eretcythate
+		Mukelampalous
+		
+	}
+}
+
+denmark = {		#4 areas
+	areas = {
+		jutland
+		Metmegalis
+		sealand
+		schleswig
+		
+	}
+}
+
+Madykyrendia = {		#9 areas
+	areas = {
+		Iaachthos
+		Locrlebelia
+		Gancarios
+		Aleeretthera
+		Likorintthos
+		Cormansos
+		Myleklia
+		Kynerythios
+		Manapolllea
+		
+	}
+}
+
+virginia = {		#7 areas
+	areas = {
+		Elorosse
+		Lepherminon
+		Erecaryon
+		Amikatosia
+		Gazkumaea
+		Cythbybpolis
+		Kakameiine
+		
+	}
+}
+
+Caramariana = {		#5 areas
+	areas = {
+		Cnikoieia
+		Kimmeleiberea
+		Megametaponus
+		Hieartemuf
+		Clecorcessa
+		
+	}
+}
+
+Kailariios = {		#7 areas
+	areas = {
+		Malledus
+		Imaegdos
+		Orescyrias
+		Adramgythios
+		Kydorestosse
+		Nyclazida
+		Askmarathene
+		
+	}
+}
+
+Aleeretthera = {		#8 areas
+	areas = {
+		Megaknidai
+		Kerkichemea
+		Onchereida
+		Oroaenmea
+		Didyboutiri
+		Gelmorganios
+		Boukynae
+		Chalcmagnenae
+		
+	}
+}
+
+netherlands = {		#7 areas
+	areas = {
+		gelre
+		liege
+		frisia
+		oversticht
+		brabant
+		holland
+		hainaut
+		
+	}
+}
+
+Gangkameirine = {		#9 areas
+	areas = {
+		Bhyrtnaxmenus
+		Chalorelia
+		Itanberthos
+		Marmhieramos
+		Lindlekhlia
+		Linmaratuf
+		Mantephyoas
+		Orimadyesmos
+		Miscrotine
+		
+	}
+}
+
+Lampsamestrias = {		#11 areas
+	areas = {
+		Amarclepetra
+		Nicodiodus
+		Nemgortyissa
+		Lindnirthera
+		Boryscallia
+		Monascyrios
+		Corcachiana
+		Methuepilia
+		Dicimbus
+		Morgoessa
+		Mylacorccum
+		
+	}
+}
+
+Marahublon = {		#9 areas
+	areas = {
+		Demetcareia
+		Oricklazoyra
+		Kannathaea
+		Mesemedthera
+		Morgkasae
+		Laumorum
+		Nahelioli
+		Leonheraate
+		Elemalosse
+		
+	}
+}
+
+punjab = {		#6 areas
+	areas = {
+		Mylaolynosse
+		Myeddos
+		Corcbybyra
+		multan
+		Cniklazlia
+		Odesshalicila
+		
+	}
+}
+
+Locmonoastum = {		#4 areas
+	areas = {
+		Kynhermai
+		Elatkimmerine
+		Hermbrautes
+		Cheamaryllai
+		
+	}
+}
+
+stato_pontificio = {		#8 areas
+	areas = {
+		civitavecchia
+		ancona
+		roma
+		ascoli 
+		aquila
+		rimini
+		perugia
+		fondi
+		
+	}
+}
+
+Epidereslia = {		#9 areas
+	areas = {
+		Hischamlia
+		Lampmarmos
+		Dicbraaea
+		Nymkerosse
+		Gourmukenica
+		Cyroroplia
+		Korinhermdia
+		Eubamarynes
+		Athgatrias
+		
+	}
+}
+
+Aencarthrae = {		#6 areas
+	areas = {
+		Edecebnae
+		Metaponmormea
+		Kameimiseila
+		samogitia
+		Oroplekhasos
+		Leprekouriinon
+		
+	}
+}
+
+Goldeceus = {		#8 areas
+	areas = {
+		Elodessthera
+		Iobythnes
+		Leontkerkiniana
+		Knolautrias
+		Kasemprias
+		Kameirmethulis
+		Gortylelia
+		Bhyrtlekhmea
+		
+	}
+}
+
+sweden = {		#12 areas
+	areas = {
+		jamtaland
+		gothland
+		angermanland
+		vastergotland
+		lapland
+		uppland
+		vasterbotten
+		Kerkmegalomenus
+		smaland
+		dalarna
+		sodermanland
+		Cebnymposse
+		
+	}
+}
+
+Olymarmainda = {		#8 areas
+	areas = {
+		Locropuosse
+		Cythgyrthum
+		Klaiolate
+		Milchersalous
+		Braugortmos
+		Actnialia
+		Laodamphilia
+		Nyapolline
+		
+	}
+}
+
+ireland = {		#6 areas
+	areas = {
+		meath
+		ulster
+		thomond
+		desmond
+		leinster
+		connacht
+		
+	}
+}
+
+Achlapithae = {		#8 areas
+	areas = {
+		Magnechytaea
+		Maraedios
+		Ereskouthena
+		Metaponnymphina
+		Eretmaddia
+		Odesheroli
+		Brauambrthrae
+		Mankamarios
+		
+	}
+}
+
+Challauica = {		#2 areas
+	areas = {
+		Onchalaaea
+		Demcebrpetra
+		
+	}
+}
+
+Abmuida = {		#2 areas
+	areas = {
+		Marahublon
+		Cebrchytthera
+		
+	}
+}
+
+Locropuosse = {		#8 areas
+	areas = {
+		Actchytpolis
+		Lammantinida
+		Dimadramtiri
+		Lepambrate
+		Mesehagiiana
+		Kniddecepetra
+		Kasceblia
+		Amibyztiri
+		
+	}
+}
+
+Iaachthos = {		#2 areas
+	areas = {
+		Hubkormenus
+		Cyhietiri
+		
+	}
+}
+
+gondwana = {		#4 areas
+	areas = {
+		jharkand
+		garha
+		chanda
+		raipur
+		
+	}
+}
+
+Korikouralous = {		#10 areas
+	areas = {
+		Bybkerkiica
+		Golgkerkiinon
+		polatsk
+		Laodamider
+		Linlefkiana
+		Kamachamdia
+		Arskallidos
+		Massalidia
+		Opnemyra
+		Ithacrodos
+		
+	}
+}
+
+Amahyeai = {		#3 areas
+	areas = {
+		Antipmilloas
+		Brahielia
+		Hagiepidnes
+		
+	}
+}
+
+reddy = {		#3 areas
+	areas = {
+		udayagiri
+		tondai
+		vengi_chalukya
+		
+	}
+}
+
+Olblindate = {		#5 areas
+	areas = {
+		Marmakeonia
+		Marmlilamenus
+		Alaoeprea
+		Kumonastithera
+		Adramcalliesmos
+		
+	}
+}
+
+burma = {		#1 areas
+	areas = {
+		burma
+		
+	}
+}
+
+Kammonastiatrea = {		#7 areas
+	areas = {
+		Amarycolosse
+		Mesemioloas
+		Lariedlea
+		Goioltherna
+		Boulapithlia
+		Lakaiessa
+		Lilakydiana
+		
+	}
+}
+
+Chicyrthrae = {		#9 areas
+	areas = {
+		Milkorilis
+		Oidatrias
+		Klazometamos
+		Elegorthos
+		Cythlampsdus
+		Nakanmos
+		Knosmantinpolis
+		Dymmetapocum
+		Kanhagilia
+		
+	}
+}
+
+ontario = {		#8 areas
+	areas = {
+		Itacalion
+		Bythmukenthrae
+		Olhagrea
+		Kannchaosia
+		Morgaasklatrea
+		Antipodesine
+		Artmetaponlia
+		Metapokoinda
+		
+	}
+}
+
+Nemisemea = {		#6 areas
+	areas = {
+		Crotklazthera
+		Niaabion
+		Miskooli
+		Eretnirlia
+		Imnymphpolis
+		Katmoclia
+		
+	}
+}
+
+castilla = {		#17 areas
+	areas = {
+		soria
+		asturias
+		campos
+		jaen
+		cuenca
+		murcia
+		toledo
+		salamanca
+		burgos
+		vizcaya
+		leon
+		segovia
+		galicia
+		extremadura
+		cordoba
+		sevilla
+		la_mancha
+		
+	}
+}
+
+Kameasicum = {		#1 areas
+	areas = {
+		Askkalida
+		
+	}
+}
+
+Hieragangina = {		#6 areas
+	areas = {
+		Mukbythuf
+		Odekasos
+		Bracleoli
+		Lepkeeia
+		Elmilera
+		Chybradia
+		
+	}
+}
+
+Metaimblia = {		#12 areas
+	areas = {
+		Haliolymion
+		Byzdoryina
+		Metkyreonia
+		Ephymukenrias
+		Calliandlia
+		Eleukorthus
+		Erythdicios
+		Argmylallai
+		Antiplamdia
+		Heraeryaea
+		Dorydimaion
+		Kamardemai
+		
+	}
+}
+
+Kandeldia = {		#3 areas
+	areas = {
+		Amarymasdos
+		Amniiollia
+		Ialylebeinon
+		
+	}
+}
+
+Odesshetiri = {		#4 areas
+	areas = {
+		Cyrodeinda
+		Gonkyrethrae
+		Kumkameida
+		Gormorgios
+		
+	}
+}
+
+Asskannosse = {		#5 areas
+	areas = {
+		Heraolbios
+		Kumkuyra
+		Golgoron
+		Alinicmos
+		Erycarytrias
+		
+	}
+}
+
+sachsen = {		#3 areas
+	areas = {
+		thuringen
+		sachsen
+		meissen
+		
+	}
+}
+
+Lisapaosse = {		#1 areas
+	areas = {
+		Miseodtes
+		
+	}
+}
+
+Gourcythtrias = {		#7 areas
+	areas = {
+		Elatolylia
+		Ephyrkalosia
+		Nyscrotetta
+		Edimpolis
+		Hiecebrida
+		Kydaytios
+		Iasorestthera
+		
+	}
+}
+
+Mongournatrea = {		#1 areas
+	areas = {
+		Onchalaus
+		
+	}
+}
+
+Kankorthus = {		#4 areas
+	areas = {
+		Athknossinon
+		Kepheliina
+		Lesakresmos
+		Jukkimlia
+		
+	}
+}
+
+Chalcmethaatrea = {		#7 areas
+	areas = {
+		Iolcliladus
+		Hyekatoli
+		Maramagsos
+		Hagasiila
+		Gortgolgus
+		Aytkerkon
+		Opusnyida
+		
+	}
+}
+
+hannover = {		#4 areas
+	areas = {
+		holstein
+		oldenburg
+		munster
+		bremen
+		
+	}
+}
+
+Milkorilis = {		#1 areas
+	areas = {
+		Orichetiri
+		
+	}
+}
+
+sindhu = {		#4 areas
+	areas = {
+		sauvira
+		Kyrelamionia
+		Mulklazoon
+		Methbralea
+		
+	}
+}
+
+Masartrias = {		#1 areas
+	areas = {
+		Kehyeeia
+		
+	}
+}
+
+Knoskamalis = {		#10 areas
+	areas = {
+		Diokimmosse
+		Marmmesemene
+		Arskyrenae
+		Athlekhder
+		Opusmasmea
+		Amninicotes
+		Knossklazmea
+		Leblepene
+		Kannkourea
+		Mokerkilia
+		
+	}
+}
+
+Goastum = {		#9 areas
+	areas = {
+		Mesemarscia
+		Diocarylia
+		Calydemesmos
+		Jukchernae
+		Antipkatate
+		Ednysatrea
+		Gournkydlia
+		Hubasklia
+		Keroposse
+		
+	}
+}
+
+Lilabermos = {		#9 areas
+	areas = {
+		Ankcalylia
+		Hellesarsthrae
+		Iolcgoinda
+		Oropolbmos
+		Gortymadthus
+		Laponida
+		Amphiherapolis
+		Kykatpetra
+		Odlekhaion
+		
+	}
+}
+
+oriya = {		#4 areas
+	areas = {
+		garjat
+		oriya
+		kalinga_ganga
+		jeypore
+		
+	}
+}
+
+Gortedosia = {		#8 areas
+	areas = {
+		Boumegaaea
+		Malliolium
+		Calyhistrlia
+		Didcnicia
+		Hememantiana
+		Imbrmarmaissa
+		Mismonatrea
+		Crotklazothus
+		
+	}
+}
+
+Kammetapthera = {		#5 areas
+	areas = {
+		Morgaiassos
+		Antipclayra
+		Naxlinllai
+		Larichycia
+		Heragooli
+		
+	}
+}
+
+Oroeretina = {		#8 areas
+	areas = {
+		Monaiollai
+		Byzlaoila
+		Linmethulia
+		Eleumetaponalous
+		Kyhisus
+		Myonum
+		Knimonastiine
+		Cebithaaea
+		
+	}
+}
+
+texas = {		#8 areas
+	areas = {
+		Klazgolrias
+		Ydoepum
+		Argmylalia
+		Kamekyrenae
+		Kammonastiatrea
+		Laodielnes
+		Olmethuuf
+		Methunemonia
+		
+	}
+}
+
+Empomukica = {		#11 areas
+	areas = {
+		Mulhistoli
+		Cymaraium
+		Laasspetra
+		Kaieleuthena
+		Locrniclia
+		Locrelum
+		Myodesai
+		Olgortyissa
+		Cyrmocica
+		Agringonene
+		Barorchene
+		
+	}
+}
+
+Millbergpolis = {		#8 areas
+	areas = {
+		Lekhithaeia
+		Linlampsine
+		Mantinkorila
+		Crokaslia
+		Athchithos
+		Kimmethissa
+		Artemgortlia
+		Lebeydlis
+		
+	}
+}
+
+Delphlarthrae = {		#1 areas
+	areas = {
+		Ephkepetra
+		
+	}
+}
+
+kansas = {		#7 areas
+	areas = {
+		Calliydium
+		Demetbythaea
+		Hiegolgila
+		Kerkinlebeon
+		Ithamantiion
+		Achhalion
+		Lamimetapoiana
+		
+	}
+}
+
+tennessee = {		#3 areas
+	areas = {
+		Gythilapitoli
+		Klaasiate
+		Nymphonchthrae
+		
+	}
+}
+
+new_york = {		#4 areas
+	areas = {
+		Madymonasrias
+		Didydidsos
+		Kourhiosse
+		Millepidtrias
+		
+	}
+}
+
+carolina = {		#6 areas
+	areas = {
+		Gazaigosinon
+		Knoskamalis
+		Massamorganoas
+		Monlartes
+		Elaemporuf
+		Epimallmea
+		
+	}
+}
+
+Cniklazlia = {		#4 areas
+	areas = {
+		Andrephmea
+		Olbiioetta
+		Kididinda
+		Nemhines
+		
+	}
+}
+
+Kehyeeia = {		#9 areas
+	areas = {
+		Kerdelpetra
+		Barkorinthinon
+		Demetbrauon
+		Histrgyrthimea
+		Ambrnaxine
+		Oricarlia
+		Kermason
+		Madytdemetinon
+		Knigyrthider
+		
+	}
+}
+
+Iaknitherna = {		#1 areas
+	areas = {
+		Decalemenus
+		
+	}
+}
+
+Nenealea = {		#1 areas
+	areas = {
+		Astephythos
+		
+	}
+}
+
+Chalcmagnenae = {		#9 areas
+	areas = {
+		Aphiamarylia
+		Odesephyrthena
+		Naxkaiissa
+		Korikouralous
+		Heaigosrias
+		Dellarisllai
+		Metapdioslia
+		Ayteltes
+		Dimametaponon
+		
+	}
+}
+
+ceylon = {		#2 areas
+	areas = {
+		kotte
+		kandy
+		
+	}
+}
+
+dakota = {		#8 areas
+	areas = {
+		Nicmarondia
+		Monoastamarmenus
+		Aegherus
+		Loclamlia
+		Nicomagnelea
+		Hermhemeina
+		Kerlepreate
+		Argyropuonia
+		
+	}
+}
+
+Antipodesine = {		#9 areas
+	areas = {
+		Larislekhanae
+		Marathkaiica
+		Leprgorosia
+		Chytmesethos
+		Odemochissa
+		Monashealous
+		Maratialydos
+		Marmadicosse
+		Amnimethunes
+		
+	}
+}
+
+michigan = {		#4 areas
+	areas = {
+		Chersartemosse
+		Iolnaxdus
+		Ganmarissa
+		Heloaytlia
+		
+	}
+}
+
+Laodamphilia = {		#12 areas
+	areas = {
+		Leonbarnae
+		Ialykamathrae
+		Leibkioida
+		Idamaoas
+		Leklefkaatrea
+		Asslinduf
+		Eretcorclia
+		Ankmethotrias
+		Massbaryra
+		Olandinda
+		Elacarylea
+		Eretnauthera
+		
+	}
+}
+
+Cymmaratlia = {		#11 areas
+	areas = {
+		Goncleosos
+		Demetgournera
+		Actalaaea
+		Clegythate
+		Gollapila
+		Antigacanoas
+		Nenealea
+		Kokimmeion
+		Cyhermites
+		Andrmonaida
+		Kimmeclazoica
+		
+	}
+}
+
+Chamesetrias = {		#6 areas
+	areas = {
+		Megcherpolis
+		Mantigangrea
+		Apollcrocia
+		Goldorida
+		Helelium
+		Clazogoroli
+		
+	}
+}
+
+Ankcalylia = {		#1 areas
+	areas = {
+		Halickaiina
+		
+	}
+}
+
+Olbiioetta = {		#6 areas
+	areas = {
+		Koimethutiri
+		Hermleitrias
+		Edeoepila
+		Iolcbarmos
+		Chalcitthera
+		Magmocpetra
+		
+	}
+}
+
+Didylekessa = {		#4 areas
+	areas = {
+		Lepchipetra
+		Cebramiine
+		Kniddoryus
+		Dicaeamyloli
+		
+	}
+}
+
+Dorcalus = {		#9 areas
+	areas = {
+		Lekiacia
+		Laridiosmos
+		Astknosder
+		Mylasstes
+		Dorymulthera
+		Calyedyra
+		Mantinmeseia
+		Monoastargonia
+		Gealinaea
+		
+	}
+}
+
+khandesh = {		#2 areas
+	areas = {
+		Limethon
+		west_khandesh
+		
+	}
+}
+
+Ephymukenrias = {		#1 areas
+	areas = {
+		Cebmegalodos
+		
+	}
+}
+
+Dicmadyosse = {		#9 areas
+	areas = {
+		Megalkiinon
+		Kumeseonia
+		Kuoepuf
+		Kouriasion
+		Mesemonassos
+		Himallera
+		Gonandrissa
+		Locriolmenus
+		Kaichamai
+		
+	}
+}
+
+Ithakatdos = {		#14 areas
+	areas = {
+		Diocleoum
+		vilnus
+		Cheganium
+		Kerkicymion
+		Ephempotherna
+		Oromegaloessa
+		trakai
+		Nirmadytate
+		Dioshieroas
+		Lekhaoroica
+		minsk
+		brest-litovsk
+		nowogrodek
+		Agrinlepmos
+		
+	}
+}
+
+Clegythate = {		#4 areas
+	areas = {
+		Hagiereissa
+		Calyantigiana
+		Masshieraene
+		Monlamilia
+		
+	}
+}
+
+Astknosder = {		#7 areas
+	areas = {
+		Mocleiera
+		Monastmontrias
+		Ephygortdia
+		Kimmermalpetra
+		Chimaroai
+		Kasidalai
+		Asemposos
+		
+	}
+}
+
+Eladecethrae = {		#8 areas
+	areas = {
+		Lepregournosia
+		Hyekorinion
+		Hermidimader
+		Lampsamestrias
+		Eleulebeiana
+		Kalclaoas
+		Kyredimaetta
+		Knosborysinda
+		
+	}
+}
+
+Haliopene = {		#1 areas
+	areas = {
+		Orestlocrrea
+		
+	}
+}
+
+Lockasate = {		#7 areas
+	areas = {
+		Hyclazolea
+		Lefkoreuf
+		Ephykyrenyra
+		Ablaodilia
+		Adramleibthos
+		Nyjutherna
+		Iaknitherna
+		
+	}
+}
+
+Eleumetaponalous = {		#10 areas
+	areas = {
+		Edmetapcum
+		Heralekholi
+		Orchoaskonia
+		Magnmileiana
+		Eleukamarlis
+		Nymklazus
+		Kaslapipetra
+		Ialleoyra
+		Kallionchium
+		Lamasklus
+		
+	}
+}
+
+aquitaine = {		#4 areas
+	areas = {
+		guyenne
+		saintonge
+		gascogne
+		languedoc
+		
+	}
+}
+
+Agrinmulion = {		#3 areas
+	areas = {
+		Leprelaodius
+		Kanmudus
+		Monastmaene
+		
+	}
+}
+
+Chershermiatrea = {		#9 areas
+	areas = {
+		Miletaslia
+		Goastum
+		Edeletrias
+		Mokaiyra
+		Lapkamrias
+		Kameacanlia
+		Dimalaodate
+		Milidaleia
+		Maratathllai
+		
+	}
+}
+
+louisiana = {		#4 areas
+	areas = {
+		Metaimblia
+		Lampsacherseia
+		Aegkoratrea
+		Larapolllia
+		
+	}
+}
+
+Ankmethotrias = {		#11 areas
+	areas = {
+		Acannirtherna
+		Megalamaralous
+		Erythcalliatrea
+		Ydmaratmenus
+		Naualitiri
+		Klamonastilea
+		Kallimantder
+		Chalektherna
+		Athiolene
+		Licyrllai
+		Decemisemos
+		
+	}
+}
+
+mississippi = {		#4 areas
+	areas = {
+		Kamarantigcia
+		Gelleibera
+		Agringythithera
+		Antigopuslis
+		
+	}
+}
+
+Masslapider = {		#9 areas
+	areas = {
+		Berantigthrae
+		Locriaium
+		Iolclapitmos
+		Oroeretina
+		Ithankimmedos
+		Histkimtrias
+		Leibkyrina
+		Lebeitlia
+		Apamiseetta
+		
+	}
+}
+
+Oreslaulis = {		#12 areas
+	areas = {
+		Demetmanmenus
+		Knidkoriios
+		Emperelia
+		Delphlarthrae
+		Cythcolomenus
+		Barmulea
+		Kynidallia
+		Gythikourate
+		Lapmylaosse
+		Amphiamaonia
+		Lisapaosse
+		Arglepreosse
+		
+	}
+}
+
+Aphimaslia = {		#8 areas
+	areas = {
+		Amarykumdus
+		Korinkasita
+		Lapbergpetra
+		Hisedlea
+		Didkoilis
+		Monkannai
+		Aliamader
+		Diolampmea
+		
+	}
+}
+
+Chemegalera = {		#8 areas
+	areas = {
+		Lampamphiila
+		Katmetder
+		Edithanium
+		Aencalrias
+		Ephyrorestum
+		Asskannosse
+		Niakameesmos
+		Chytargdia
+		
+	}
+}
+
+Hieolymlia = {		#10 areas
+	areas = {
+		Lekmaddos
+		Kerkaphilia
+		Gourkoioas
+		Ceblapitdia
+		Cebracanion
+		Chytmochai
+		Masslapider
+		Eretleomea
+		Elatklarea
+		Nalaodider
+		
+	}
+}
+
+Lefkaknossissa = {		#4 areas
+	areas = {
+		Nemildus
+		Adramcronae
+		Demantigus
+		Alagazaea
+		
+	}
+}
+
+Dorydimaion = {		#2 areas
+	areas = {
+		Lefmarmamenus
+		Leongortypetra
+		
+	}
+}
+
+Lepchipetra = {		#9 areas
+	areas = {
+		Chersitanoas
+		Kyrcormos
+		Larkiomos
+		Kameiimbrtes
+		Mantmorganaea
+		Oephieraae
+		Mesekourinae
+		Knossoputiri
+		Antiiapetra
+		
+	}
+}
+
+Hublkaiate = {		#11 areas
+	areas = {
+		Naxoepuf
+		Nemhelolis
+		Methalildus
+		Arthemerothus
+		Kasmyllia
+		Delkerkimos
+		Delhellesion
+		Lampsakourera
+		Achlapithae
+		Hieradymlia
+		Diomalllis
+		
+	}
+}
+
+Artmetaponlia = {		#9 areas
+	areas = {
+		Oennicooas
+		Elmetapmea
+		Locrbyzate
+		Monastilaotes
+		Cherhethrae
+		Artemnyaea
+		Bouamniuf
+		Laribrauthus
+		Decleios
+		
+	}
+}
+
+france = {		#16 areas
+	areas = {
+		flanders
+		poitou
+		normandy
+		britanny
+		orleans
+		bourbon
+		anjou
+		burgundy
+		picardy
+		auvergne
+		limousin
+		berry
+		ile_de_france
+		champagne
+		touraine
+		alencon
+		
+	}
+}
+
+Opmadesmos = {		#2 areas
+	areas = {
+		Alinargatrea
+		Goledonia
+		
+	}
+}
+
+Kamodpetra = {		#10 areas
+	areas = {
+		Cherslaupolis
+		Lauoonia
+		Oradramesmos
+		Hemerohelisos
+		Ithancalyus
+		Kandeldia
+		Clazomision
+		Elmocatrea
+		Erygythtiri
+		Gelgorlia
+		
+	}
+}
+
+new_mexico = {		#1 areas
+	areas = {
+		Kallimarotes
+		
+	}
+}
+
+Amardimai = {		#1 areas
+	areas = {
+		Monagocum
+		
+	}
+}
+
+Laplindica = {		#8 areas
+	areas = {
+		Chalgorgiida
+		Eresmonaila
+		Kamegythatrea
+		Kimmerbyzai
+		Chalcclaion
+		Leontkoriai
+		Opukamamenus
+		Katkermenus
+		
+	}
+}
+
+Magnkorincia = {		#6 areas
+	areas = {
+		Olbmallera
+		Millbergpolis
+		Apollmaratila
+		Dorhyeosia
+		Monoastdeclia
+		Imdiosthrae
+		
+	}
+}
+
+piemonte = {		#2 areas
+	areas = {
+		turin
+		monferrato
+		
+	}
+}
+
+Kimcheosse = {		#5 areas
+	areas = {
+		Elahagoas
+		Orchdicaealea
+		Ganliltiri
+		Lefkaknossissa
+		Kankorthus
+		
+	}
+}
+
+aragon = {		#4 areas
+	areas = {
+		valencia
+		catalunya
+		mallorca
+		aragon
+		
+	}
+}
+
+sicily = {		#3 areas
+	areas = {
+		palermo
+		messina
+		siracusa
+		
+	}
+}
+
+Kanmetaplia = {		#6 areas
+	areas = {
+		Knosganessa
+		Olbbraaea
+		Empomukica
+		Monastiaigosetta
+		Ephydorrias
+		Hyedosia
+		
+	}
+}
+
+Heloaytlia = {		#11 areas
+	areas = {
+		Didymarene
+		Lapithmaesmos
+		Chalcmorganthus
+		Onchmileica
+		Mukenaigthena
+		Amarkimmernes
+		Korinthlilder
+		Colkimmium
+		Nyephylia
+		Manidalon
+		Delphmegaltherna
+		
+	}
+}
+
+scotland = {		#7 areas
+	areas = {
+		ross
+		hamilton
+		orkney
+		buccleuch
+		albany
+		isle_of_man
+		the_isles
+		
+	}
+}
+
+Hellesgoate = {		#2 areas
+	areas = {
+		Alinmegalea
+		Kydoialyetta
+		
+	}
+}
+
+england = {		#15 areas
+	areas = {
+		welsh_march
+		lincoln
+		norfolk
+		westminster
+		kent
+		york
+		sussex
+		somerset
+		northumberland
+		bedford
+		gloucester
+		lancaster
+		cornwall
+		hereford
+		wales
+		
+	}
+}
+
+Onchkydllai = {		#7 areas
+	areas = {
+		Helleseresnae
+		Mukenitaita
+		Byzempatrea
+		Chersdelphlia
+		Aegidaida
+		Askmasllai
+		Mylaereosse
+		
+	}
+}
+
+portugal = {		#5 areas
+	areas = {
+		beira
+		douro_e_minho
+		alentejo
+		algarve
+		ribatejo
+		
+	}
+}
+
+toscana = {		#3 areas
+	areas = {
+		pisa
+		Cythasider
+		firenze
+		
+	}
+}
+
+arles = {		#8 areas
+	areas = {
+		dauphine
+		waadt
+		schwyz
+		franche_comte
+		zurich
+		provence
+		drei_bunde
+		savoue
+		
+	}
+}
+
+Laralitrias = {		#7 areas
+	areas = {
+		Eubedissa
+		Hagklazoyra
+		Locmonoastum
+		Amamonaate
+		Odesshetiri
+		Kalkouoli
+		Antipkasmdos
+		
+	}
+}
+
+Ambrbrauf = {		#3 areas
+	areas = {
+		Metaalioas
+		Itkamaesmos
+		Ambrodeios
+		
+	}
+}
+
+mewar = {		#4 areas
+	areas = {
+		gird
+		mewar
+		marwar
+		naguarya
+		
+	}
+}
+
+Amibybder = {		#11 areas
+	areas = {
+		Byllemporium
+		Caritancum
+		Magcniai
+		Gangkameirine
+		Amaryantipida
+		Leontclanes
+		Kniephyryra
+		Andrantipdia
+		Bythlisate
+		Astianae
+		Lebleprlia
+		
+	}
+}
+
+mysore = {		#3 areas
+	areas = {
+		mysore
+		sirangapatna
+		nulambavadi
+		
+	}
+}
+
+Lillinatrea = {		#10 areas
+	areas = {
+		Elartemene
+		Andkorinthtrias
+		Amacheyra
+		Metapokyrenila
+		Olyoepuf
+		Lefkaededer
+		Kydasicum
+		Lapitmadyton
+		Edasiios
+		Mukargdus
+		
+	}
+}
+
+osterreich = {		#6 areas
+	areas = {
+		steiermark
+		oberosterreich
+		tirol
+		karnten
+		salzburg
+		osterreich
+		
+	}
+}
+
+Gorkyion = {		#6 areas
+	areas = {
+		Bythloclia
+		Nyaytoli
+		Gournlefcia
+		Morgoricllai
+		Clehermdos
+		Hagandriana
+		
+	}
+}
+
+Laodimaryra = {		#6 areas
+	areas = {
+		Leocypolis
+		Kimcheosse
+		Kailariios
+		Histrlinduf
+		Kynnyai
+		Braumarathpolis
+		
+	}
+}
+
+Calodethos = {		#7 areas
+	areas = {
+		Chamithauf
+		Leklapithus
+		Linhyeium
+		Kerkmonalia
+		Mulgolia
+		Imeleuoli
+		Niaedmos
+		
+	}
+}
+
+ahmednagar = {		#4 areas
+	areas = {
+		tana
+		ahmednagar
+		konkana
+		nasikya
+		
+	}
+}
+
+bayern = {		#4 areas
+	areas = {
+		oberpfalz
+		augsburg
+		wurzburg
+		bayern
+		
+	}
+}
+
+Gorgibarinon = {		#7 areas
+	areas = {
+		Monoastmarmaonia
+		Arsepidcum
+		Koepiios
+		Lampsaereslia
+		Carleiosse
+		Asikumeia
+		Hemeronymphlia
+		
+	}
+}
+
+new_england = {		#5 areas
+	areas = {
+		Marmacorcthera
+		Amalamtrias
+		Cyraigosai
+		Kyrengythinae
+		Halicheoli
+		
+	}
+}
+
+bihar = {		#6 areas
+	areas = {
+		kalachuri
+		Madytmasssos
+		kanyakubja
+		chandela
+		jaunpur
+		simaramapura
+		
+	}
+}
+
+Miletmesemtes = {		#6 areas
+	areas = {
+		Maachdia
+		Cyrgollia
+		Maaphider
+		Dymjukinda
+		Orestones
+		Doraignes
+		
+	}
+}
+
+Meganirlea = {		#7 areas
+	areas = {
+		Deceeleuaea
+		Masartrias
+		Dicaeabraucum
+		Madyamaonia
+		Epidkioita
+		Moralarea
+		Aegankcum
+		
+	}
+}
+
+Leicymita = {		#10 areas
+	areas = {
+		Kannlaaea
+		Laplindica
+		Mantmegalous
+		Cheriotes
+		Mullapitium
+		Manartaea
+		Hieraolbiissa
+		Erythlamiosse
+		Kerkkimmene
+		Lebehalicoas
+		
+	}
+}
+
+Lamiidalcia = {		#3 areas
+	areas = {
+		Knidlaodesmos
+		Lindmetapononia
+		Milodeson
+		
+	}
+}
+
+genoa = {		#2 areas
+	areas = {
+		genoa
+		nizza
+		
+	}
+}
+
+Mesemioloas = {		#6 areas
+	areas = {
+		Athgythinon
+		Marataskene
+		Katdiclia
+		Haliciainda
+		Kameiroeprias
+		Korinlismea
+		
+	}
+}
+
+Olbbraaea = {		#7 areas
+	areas = {
+		Bythelattherna
+		Larialnae
+		Lockasate
+		Lismetapdus
+		Aenkyreessa
+		Monatheloion
+		Dicaeahellestherna
+		
+	}
+}
+
+nepal = {		#1 areas
+	areas = {
+		nepal
+		
+	}
+}
+
+cechy = {		#5 areas
+	areas = {
+		upper_silesia
+		lower_lusatia
+		upper_lusatia
+		Akrabum
+		morava
+		
+	}
+}
+
+norway = {		#6 areas
+	areas = {
+		salten
+		Demetmarmaita
+		drondheim
+		oslo
+		bergen
+		finmark
+		
+	}
+}
+
+lombardy = {		#4 areas
+	areas = {
+		brescia
+		milan
+		modena
+		parma
+		
+	}
+}
+
+Miseodtes = {		#2 areas
+	areas = {
+		Hyemorgacia
+		Madykyrendia
+		
+	}
+}
+
+naples = {		#8 areas
+	areas = {
+		foggia
+		taranto
+		Mantinkerkicia
+		salerno
+		napoli
+		benevento
+		basilicata
+		isernia
+		
+	}
+}
+
+Abopium = {		#4 areas
+	areas = {
+		Lekhmylaissa
+		Ambrerespetra
+		Kormetapoida
+		Demkyreessa
+		
+	}
+}
+
+Knosmantinpolis = {		#10 areas
+	areas = {
+		Chamlaodesmos
+		Ithaorchaea
+		Cymephytherna
+		Neameslia
+		Kamillllai
+		Mukataosia
+		Lindgourtrias
+		Andrclethos
+		Gyrthikummea
+		Olymdorthrae
+		
+	}
+}
+
+Aenkyreessa = {		#5 areas
+	areas = {
+		Barberissa
+		Lindgazoas
+		Hagotes
+		Marmantinosia
+		Eladecethrae
+		
+	}
+}
+
+Mulgolia = {		#2 areas
+	areas = {
+		Lapikimmeai
+		Corcolosia
+		
+	}
+}
+
+Hagiereissa = {		#6 areas
+	areas = {
+		Morganartemtes
+		Gythikyrenoli
+		Miletaigosalous
+		Maralekhae
+		Oleibedia
+		Oennicmea
+		
+	}
+}
+
+westphalen = {		#4 areas
+	areas = {
+		braunschweig
+		westfalen
+		hessen
+		luneburg
+		
+	}
+}
+
+Knimonastiine = {		#5 areas
+	areas = {
+		Olbmethapetra
+		Muastiri
+		Dormassaai
+		Ganadramissa
+		Claydatrea
+		
+	}
+}
+
+Elkoraea = {		#3 areas
+	areas = {
+		Korkumatrea
+		Locrlamioli
+		Kameikamaion
+		
+	}
+}
+
+wurttemberg = {		#2 areas
+	areas = {
+		wurttemberg
+		baden
+		
+	}
+}
+
+pennsylvannia = {		#4 areas
+	areas = {
+		Gytmiletthrae
+		Odchytessa
+		Nicgyrthetta
+		Leprekouriai
+		
+	}
+}
+
+delhi = {		#3 areas
+	areas = {
+		mewat
+		Edemaglia
+		delhi
+		
+	}
+}
+
+Elemeseila = {		#6 areas
+	areas = {
+		Lindoenthos
+		Juidalene
+		Koricrodia
+		Kamarmine
+		Lepreargyruf
+		Heloereissa
+		
+	}
+}
+
+Barberissa = {		#8 areas
+	areas = {
+		Leontamphiyra
+		Gortcalus
+		Cniolnae
+		Laucordia
+		Maerythatrea
+		Kepepites
+		Lepmantieia
+		Olgorgmea
+		
+	}
+}
+
+Lilkameios = {		#1 areas
+	areas = {
+		Ioantipinon
+		
+	}
+}
+
+Decgazai = {		#8 areas
+	areas = {
+		Megaloiaion
+		Mukenymphuf
+		Odessalindia
+		Lepcleoina
+		Methabissa
+		Cebrlepdus
+		Magnmaraosia
+		Ganmyline
+		
+	}
+}
+
+Empordimpolis = {		#3 areas
+	areas = {
+		kranjska
+		Odessjuktpolis
+		Helimethuder
+		
+	}
+}
+
+Oroolymmea = {		#14 areas
+	areas = {
+		Eryleoessa
+		Morgalarisinon
+		Kasmiolctherna
+		Didyialycum
+		Kasmiotrias
+		Opuactnae
+		Leilaristherna
+		Artemheldus
+		Imbmethudus
+		Itanedlia
+		Gangantigatrea
+		Nirboucum
+		Oroplampsaatrea
+		Oremorinda
+		
+	}
+}
+
+bengal = {		#9 areas
+	areas = {
+		satigama
+		tripura
+		bengala
+		tirabhukti
+		gauda
+		kaivarta
+		sura
+		Elkoraea
+		mrauk_u
+		
+	}
+}
+
+Erelilayra = {		#7 areas
+	areas = {
+		Kimmerkameicum
+		Lapcheon
+		Kyreklaonia
+		Olbhietrias
+		Empomarmnae
+		Gyrthlepronia
+		Asihyus
+		
+	}
+}
+
+assam = {		#2 areas
+	areas = {
+		kachar
+		assam
+		
+	}
+}
+
+Nicleonttes = {		#4 areas
+	areas = {
+		Antidymllai
+		Abgythidus
+		Hiephyrlia
+		Odekaalous
+		
+	}
+}
+
+hyderabad = {		#5 areas
+	areas = {
+		mahur
+		rattapudi
+		kambampet
+		hyderabad
+		raichur
+		
+	}
+}
+
+Lekhasai = {		#7 areas
+	areas = {
+		Antiolbpolis
+		Naumonasesmos
+		Laoknossdia
+		Amnichersus
+		Healaila
+		Callefkaica
+		Amiantipoli
+		
+	}
+}
+
+ohio = {		#4 areas
+	areas = {
+		Croimalous
+		Ydmastherna
+		Methomylia
+		Kanonita
+		
+	}
+}
+
+granada = {		#1 areas
+	areas = {
+		granada
+		
+	}
+}
+
+Gytheublia = {		#9 areas
+	areas = {
+		Amniidaaea
+		Cleokeronia
+		Mongathus
+		Dioskamayra
+		Kamhellesaea
+		Doryedthos
+		Histrcaryion
+		Abchytila
+		Jumethaosia
+		
+	}
+}
+
+Kanonita = {		#3 areas
+	areas = {
+		madurai
+		palakkad
+		chola
+		
+	}
+}
+
+georgia = {		#3 areas
+	areas = {
+		Argopuslia
+		Ithassos
+		Antipiaonia
+		
+	}
+}
+
+minnesota = {		#6 areas
+	areas = {
+		Onmasoas
+		Gytgortoli
+		Alealilia
+		Abmonatlia
+		Olbolymida
+		Koudimtherna
+		
+	}
+}
+
+Kyrengythinae = {		#8 areas
+	areas = {
+		Marathasthena
+		Argkimmenes
+		Actkimmeder
+		Klakeate
+		Calchyai
+		Kerkidecelis
+		Nymplapithmos
+		Golathena
+		
+	}
+}
+
+Gelephyine = {		#3 areas
+	areas = {
+		Hagiallai
+		Lilaantigeia
+		Iamethuai
+		
+	}
+}
+
+kannara = {		#2 areas
+	areas = {
+		kerala
+		Ialykoiida
+		
+	}
+}
+
+Iolampsrea = {		#1 areas
+	areas = {
+		Madymethoonia
+		
+	}
+}
+
+Bybacanrias = {		#5 areas
+	areas = {
+		Lilabermos
+		Kyrhelcia
+		Mesecyica
+		Carymethutherna
+		Borysmarmthrae
+		
+	}
+}
+
+Liiasdia = {		#3 areas
+	areas = {
+		Lapithodida
+		Maratnymoli
+		Alindemtes
+		
+	}
+}
+
+Misemarmrias = {		#9 areas
+	areas = {
+		Kouelallai
+		Kerkdiouf
+		Korkorinai
+		Nemdymios
+		Asklleibeyra
+		Cleapolloli
+		Elatmaratthrae
+		Mukeleprdos
+		Ganmeththerna
+		
+	}
+}
+
+missouri = {		#5 areas
+	areas = {
+		Hemeromethlis
+		Massmasila
+		Bybacanrias
+		Gaepiine
+		Cymmaratlia
+		
+	}
+}
+
+Leoolessa = {		#3 areas
+	areas = {
+		Anklindcia
+		Opumisder
+		Athorites
+		
+	}
+}
+
+wisconsin = {		#4 areas
+	areas = {
+		Klalepreosse
+		Hegolosse
+		Gythimileinda
+		Maramioas
+		
+	}
+}
+
+Madoryene = {		#5 areas
+	areas = {
+		Malmisdia
+		Marathmantitherna
+		Delkouridos
+		Lapithkerkai
+		Leoaeglia
+		
+	}
+}
+
+florida = {		#3 areas
+	areas = {
+		Cyrmonateia
+		Chicyrthrae
+		Knosskanatrea
+		
+	}
+}
+
+Leonephyrosse = {		#9 areas
+	areas = {
+		Kameircrotyra
+		Moccalyios
+		Itanaigoli
+		Lamplebeetta
+		Bylldiolia
+		Magklazalous
+		Cebrepidiana
+		Hagcalyene
+		Chemegalera
+		
+	}
+}
+
+Bythelattherna = {		#10 areas
+	areas = {
+		Laodimonatrias
+		Alagyrthion
+		Amahyeai
+		Ceblauum
+		Miletjuthera
+		Helogonica
+		Klazempornae
+		Marmaalaion
+		Challauica
+		Lampschamlia
+		
+	}
+}
+
+Decleonae = {		#9 areas
+	areas = {
+		Deckasmlia
+		Kamaanklia
+		Lefkmarmae
+		Cololociana
+		Knossiasrea
+		Ithmonattes
+		Oreslaulis
+		Korintnaxoas
+		Mukecoloai
+		
+	}
+}
+
+Braudecelia = {		#8 areas
+	areas = {
+		Olnymrias
+		Oklazocum
+		Opnemos
+		Kyrencolesmos
+		Methudorder
+		Olynkuminon
+		Abmuida
+		Chamesetrias
+		
+	}
+}
+
+alabama = {		#3 areas
+	areas = {
+		Nymphorai
+		Mantmulon
+		Massnympthos
+		
+	}
+}
+
+illinois = {		#4 areas
+	areas = {
+		Aigephinda
+		Leibecebida
+		Andmantosia
+		Olyheliessa
+		
+	}
+}
+
+Chersialylia = {		#7 areas
+	areas = {
+		Mulclaeia
+		Kynlekmenus
+		Helesmea
+		Chershermiatrea
+		Idalkydmea
+		Magneoepeia
+		Opugangsos
+		
+	}
+}
+
+newfoundland = {		#3 areas
+	areas = {
+		Nympberlia
+		Monasdythus
+		Kaimiletum
+		
+	}
+}
+
+Oenkumllai = {		#8 areas
+	areas = {
+		Artemnauesmos
+		Ambrnymlea
+		Opnaxosse
+		Leontdiosmea
+		Onamiita
+		Madimalia
+		Maraherios
+		Callinicoinda
+		
+	}
+}
+
+Odjulia = {		#5 areas
+	areas = {
+		Olymhistrios
+		Naucalyila
+		Meskamlia
+		Aslemea
+		Metapocrotthus
+		
+	}
+}
+
+gujarat = {		#4 areas
+	areas = {
+		lata
+		saurashtra
+		kutch
+		gujarat
+		
+	}
+}
+
+Brauorestthos = {		#8 areas
+	areas = {
+		Erelilayra
+		Gortedosia
+		Aendioica
+		Itcalai
+		Maroathpetra
+		Kamarkimmetiri
+		Amahistrium
+		Athonchthera
+		
+	}
+}
+
+Mukenmadaea = {		#8 areas
+	areas = {
+		Dimkumlis
+		Antiheliion
+		Itdictherna
+		Locmiletinon
+		Lapithnirpetra
+		Helogorgiida
+		Lapithcebder
+		Knoscalythena
+		
+	}
+}
+
+Elhiosse = {		#9 areas
+	areas = {
+		Hisnicesmos
+		Hererythdia
+		Orehubesmos
+		Kerkactatrea
+		Caramariana
+		Maglamilia
+		Lamplepissa
+		Leflapityra
+		Agrinimbressa
+		
+	}
+}
+
+Gormorgios = {		#3 areas
+	areas = {
+		Acaniolnae
+		Kimmergeina
+		Kekerkincia
+		
+	}
+}
+
+quebec = {		#6 areas
+	areas = {
+		Magnehemerodos
+		Locitantes
+		Korinthnymcum
+		Hierdeldos
+		Lekkamepolis
+		Ithamamenus
+		
+	}
+}
+
+indiana = {		#3 areas
+	areas = {
+		Kallarisyra
+		Croargyrthos
+		Artemclazolea
+		
+	}
+}
+
+malwa = {		#4 areas
+	areas = {
+		bandugadha
+		guhilot
+		anupa
+		malwa
+		
+	}
+}
+
+Aenkomenus = {		#4 areas
+	areas = {
+		Itaolbiyra
+		Gourbarthus
+		Korilammea
+		Metapamaae
+		
+	}
+}
+
+Katnysaea = {		#3 areas
+	areas = {
+		Gyrthiaigosila
+		Gorantipalous
+		Cyrmesios
+		
+	}
+}
+
+Aigoretrias = {		#7 areas
+	areas = {
+		Onmassalia
+		Olhitrias
+		Gelhelitiri
+		Iolnaai
+		Chimorgathera
+		Madyelesmos
+		Hieolymlia
+		
+	}
+}
+
+lotharingia = {		#7 areas
+	areas = {
+		bar
+		trier
+		lorraine
+		julich
+		berg
+		luxembourg
+		pfalz
+		
+	}
+}
+
+Gortmeseminon = {		#5 areas
+	areas = {
+		Anticherlia
+		Liklazdia
+		Emplamilia
+		Korinthidaum
+		Klazodessmea
+		
+	}
+}
+
+kentucky = {		#2 areas
+	areas = {
+		Monasgolder
+		Masshistae
+		
+	}
+}
+
+Bybkeina = {		#1 areas
+	areas = {
+		Maratmetapopolis
+		
+	}
+}
+
+Ephkycia = {		#11 areas
+	areas = {
+		Edamiium
+		Hierniaina
+		Kammetapthera
+		Gocalpetra
+		Katasklmea
+		Liskoroas
+		Artephthos
+		Cnidecenes
+		Arglekhosia
+		Kynargion
+		Aegmarmaoas
+		
+	}
+}
+
+Heraeryaea = {		#9 areas
+	areas = {
+		Mukenmartes
+		Miletmaronon
+		Gorlaoai
+		Herahubmenus
+		Kerkinandriana
+		Lekhasai
+		Chemantisos
+		Gytheublia
+		Lampsmettes
+		
+	}
+}
+
+Clazhellesene = {		#11 areas
+	areas = {
+		Lamkatalia
+		Kaimillnes
+		Oregyrthion
+		Byzandrinda
+		Odeslamonia
+		Acthyetherna
+		Goldeceus
+		Chigolosia
+		Monoastamnimenus
+		Adramkiothena
+		Caledeia
+		
+	}
+}
+
+saskatchewan = {		#6 areas
+	areas = {
+		Opusclazessa
+		Decmaesmos
+		Keleolia
+		Kimmmallyra
+		Cymhelorea
+		Jukantipaea
+		
+	}
+}
+
+Elcherseia = {		#9 areas
+	areas = {
+		Olynaegai
+		Malolbirias
+		Iolcmethanes
+		Apollmantialous
+		Geclazai
+		Kydodemetica
+		Nymphapatrias
+		Oricgyrthioli
+		Leonepiuf
+		
+	}
+}
+
+Oreshelidos = {		#11 areas
+	areas = {
+		Kyrenmileine
+		Mukenlapitida
+		Olboepai
+		Knossnirlea
+		Epidbarita
+		Ialychamatrea
+		Gelolynion
+		Olylilaesmos
+		Lapitgazera
+		Leleosos
+		Lapitlindus
+		
+	}
+}
+
+Odmileine = {		#6 areas
+	areas = {
+		Calodesstiri
+		Nymylaeia
+		Amarydictrias
+		Nirlauine
+		Ormadytpolis
+		Golglacum
+		
+	}
+}
+
+Kiocolila = {		#9 areas
+	areas = {
+		Knossgolmea
+		Methkothrae
+		Oemarataea
+		Aliodtherna
+		Kameasicum
+		Eleelaesmos
+		Epidereslia
+		Madytlepcia
+		Madytchytida
+		
+	}
+}
+
+Mantimadyttiri = {		#6 areas
+	areas = {
+		Athgourai
+		Didmonastinae
+		Lisjuklia
+		Ydlinder
+		Chamlapnae
+		Olynhaliene
+		
+	}
+}
+
+Kasmchaltes = {		#8 areas
+	areas = {
+		Olyolosia
+		Niamaginda
+		Mylaartemnes
+		Lampsknosuf
+		Cythoepita
+		Asaskllia
+		Linmantae
+		Mongournatrea
+		
+	}
+}
+
+Madyalaene = {		#10 areas
+	areas = {
+		Nauacanrea
+		Lismeglia
+		Hubllapitthos
+		Braydeia
+		Laodiambron
+		Higortlia
+		Locrdoryuf
+		Lapitganai
+		Agrinmileuf
+		Chalcmethaatrea
+		
+	}
+}
+
+Idalnaurias = {		#8 areas
+	areas = {
+		Lebberuf
+		Olynmonissa
+		Kamodpetra
+		Halicelaesmos
+		Crometarea
+		Lamikulia
+		Akrkatmenus
+		Odasmos
+		
+	}
+}
+

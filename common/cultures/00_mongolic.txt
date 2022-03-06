@@ -1,0 +1,81 @@
+﻿mongolic = {
+	color = hsv { 0.4  0.4  0.4 }
+
+    levy_template = levy_conscripts
+
+    primary = conscripts
+    secondary = conscripts
+    flank = conscripts
+
+    primary_navy = tetrere
+    secondary_navy = octere
+    flank_navy = liburnian
+    male_names = {
+		Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligtü Dayan 
+			Delbeg Ejei Elbeg Engke Güyük Gün Gulichi Irinchibal Jorightu Kublai Köke Ligdan Markörgis Möngke 
+			Manduulun Öljei Örüg Oyiradai Ögödei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Temür Toghun 
+			Tolui Toq Uskhal Yesün Ariq Batu Eljigidei Joichi Darayisung Tümen
+	}
+	female_names = {
+		Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez_khatum Goland Ho_elun 
+			Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene
+	}
+	family = {
+		Onggirat
+		Naiman
+		Kereyid
+		Sartaq
+		Mengu-Timur
+		Uriankhai
+		Bujakhin
+		Besud
+		Noyan
+		Jochid
+		Chagatayid
+		Borjigin
+		Chupanid
+		Injuid
+		Toluid
+		Ganbold
+		Bolormaa
+		Batbayar
+		Bat_Erdene
+		Otgonbayar
+		Enkhtuyaa
+		Gantulga
+		Nergüi
+		Lkhagvasüren
+		Enkhjargal
+		Ganzorig
+		Narantsetseg
+		Pürevsüren
+		Ganbaatar
+		Mönkhtsetseg
+		Mönkhbat
+		Mönkh_Erdene
+		Jalair
+		Sartuul
+		Olkhunut
+		Khatagin
+		Iljigin
+		Tsookhor
+		Qarakhanid
+	}
+
+	culture = {
+		mongolian = {} #Khalka mongols, majority within outer mongolia
+		oirat = {} #within qinghai/ inner mongolia
+		buryat = {} #in russia/northern mongolia
+		dagur = {} #mongols in manchuria
+		kalmyks = {} #buddhist mongols in russian khalmikia republic
+	}
+	
+	barbarian_names = { MONGOLIC }
+	
+	graphical_culture = muslim_1815_gfx
+	
+	ethnicities = {
+		10 = east_asian
+		10 = turkic
+	}	
+}

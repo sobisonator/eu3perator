@@ -1,0 +1,49 @@
+﻿burmic = {
+	color = hsv { 0.8  0.9  0.8 }
+
+    levy_template = levy_conscripts
+
+    primary = conscripts
+    secondary = conscripts
+    flank = conscripts
+
+    primary_navy = tetrere
+    secondary_navy = octere
+    flank_navy = liburnian
+    male_names = {
+		Zalahtinyan Sithukyawhtin Minkyinyo Tabinshwehti Thamindwut Thaminhatau Bayinnaug 
+			Handabayin Anaukpetlun Minradeippa Thalun Pindale Pye Narawara Minredyawdin Sane 
+			Taninganwe Hamdammayaza 
+	}
+	female_names = {
+		Yaza-Dewi Atula-Thiri Khin-Myo-Sit Khin-Myat-Hset Khin-Ma-Lat Mya Shin-Sawbu
+	}
+	family = {
+		Ava.Ava.Ava.Ava
+		Sagaing.Sagaing.Sagaing.Sagaing
+		Kyaukse.Kyaukse.Kyaukse.Kyaukse
+		Pinya.Pinya.Pinya.Pinya
+		Myinsaing.Myinsaing.Myinsaing.Myinsaing
+		Konbaung.Konbaung.Konbaung.Konbaung
+		Martaban.Martaban.Martaban.Martaban
+		Thaton.Thaton.Thaton.Thaton
+		Dagon.Dagon.Dagon.Dagon
+	}
+
+	culture = {
+		burmese = {}
+		karen = {}
+		kachin = {}
+		naga = {}
+		lahu = {}
+	}
+	
+	barbarian_names = { BURMIC }
+	
+	graphical_culture = asian_1815_gfx
+	
+	ethnicities = {
+		10 = thai
+		5 = tibetan
+	}	
+}

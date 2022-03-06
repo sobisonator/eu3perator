@@ -1,0 +1,71 @@
+﻿nahua_group = {
+	color = hsv { 0.56  0.32  0.37 }
+
+    levy_template = levy_conscripts
+
+    primary = conscripts
+    secondary = conscripts
+    flank = conscripts
+
+    primary_navy = tetrere
+    secondary_navy = octere
+    flank_navy = liburnian
+    male_names = {
+			Axayakatl Atzin Miztli Mixtli Yoali Iztapalapa Yaotzin Aquetzalli Xinantécatl Nazahua Yoltic Cuautli Xocoyotzin Coyoacán Nahui Topiltzin Axayacatl Macuil Ocelotl Ehecatzin Tláloc Huitzil Teutli Acatzin Zempoaltecatl Cuetlachtli Coatzin Teyotl Xilonen Tecpanecatl Alberto Rodrigo Fernando Eduardo Daniel Carlos Alejandro Jesús Juan José Francisco JoseLuis Sebastián Guadalupe Diego Martín Nelson Hernando Gabriel Valentín Rosario Juan Jimeno Carlos Marcos José Miguel Luís Manuel Martín Pedro Fernando Ferdinando Francisco Velasco Mateo Santiago Sebastián Matías Diego Alejandro Samuel Adrián Joaquín Lucas Tomas Gabriel Emiliano Jerónimo Emmanuel Agustín Pablo Andrés Thiago Leonardo Felipe Ángel Maximiliano Ignacio Emilio Bruno Vicente Valentino Julián Javier Luciano Rafael Ricardo Sergio Eduardo Cristóbal Jorge Alonso Simón Gael Damián Esteban Dante Camilo Elías Benito Sancho
+		}
+		female_names = {
+			Zyanya Tonantzin Yolotzin Izel Aketzali Ameyali Xitlali Yeyetzi Yetlanezi Quetzal Ketzaly Yoliztli Yaocihuatl Ahuatzin Yoloxochitl Yarebi Chalchihuitl Tlali Cihuatl Itzcoatl Citlalin María MaríaGuadalupe Margarita Josefina Verónica Valentina Teresa Alejandra Guadalupe Mariana Costanza Lucía Teofila Hernanda Mariana Carmen Theresa Maria Alba Manuela Carmen Luisa Sofia Isabella Camila Valentina Valeria Mariana Luciana Daniela Gabriela Victoria Martina Lucia Jimena Sara Renata Emilia Paula Amanda Fernanda Emilia Juana Bianca Florencia Carolina Maite Rafaela Regina Adriana Violeta Salomé Isabel Julia Delfina Olivia Cristina Micaela Fabiana Josefina Isidora Irena Magdalena Benita 
+		}
+
+	family = {
+		Aca.Aca.Aca.Aca
+		Apanco.Apanco.Apanco.Apanco
+		Cacahua.Cacahua.Cacahua.Cacahua
+		Cholula.Cholula.Cholula.Cholula
+		Huexotl.Huexotl.Huexotl.Huexotl
+		Macuil.Macuil.Macuil.Macuil
+		Malinalxóchitl.Malinalxóchitl.Malinalxóchitl.Malinalxóchitl
+		Tizatl.Tizatl.Tizatl.Tizatl
+		Quechol.Quechol.Quechol.Quechol
+		Popoca.Popoca.Popoca.Popoca
+		Netzahualcóyotl.Netzahualcóyotl.Netzahualcóyotl.Netzahualcóyotl
+		Xicale.Xicale.Xicale.Xicale
+		Tlatoa.Tlatoa.Tlatoa.Tlatoa
+		Temich.Temich.Temich.Temich
+		Tlapaya.Tlapaya.Tlapaya.Tlapaya
+		Tlahque.Tlahque.Tlahque.Tlahque
+		Tlatoline.Tlatoline.Tlatoline.Tlatoline
+		Tlapaya.Tlapaya.Tlapaya.Tlapaya
+		Xilotl.Xilotl.Xilotl.Xilotl
+		Texis.Texis.Texis.Texis
+		Tenahua.Tenahua.Tenahua.Tenahua
+		Xilotl.Xilotl.Xilotl.Xilotl.
+		Nophal.Nophal.Nophal.Nophal
+		Cotzomi.Cotzomi.Cotzomi.Cotzomi
+		García.García.García.García
+		Hernández.Hernández.Hernández.Hernández
+		López.López.López.López
+		Johualicahualzin.Johualicahualzin.Johualicahualzin.Johualicahualzin
+		Zacatlán
+		Zitle
+		Zuancatl
+		Garcia
+		Rodriguez
+		Hernandez
+				
+		}
+
+	culture = {
+		nahuatl = {}
+		piman = {}
+		minor_nahua = {}
+		}
+	
+	barbarian_names = { NA-DENE }
+	
+	graphical_culture = western_1815_gfx
+	
+	ethnicities = {
+		10 = mestizo
+	}	
+}

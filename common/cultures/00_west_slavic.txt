@@ -1,0 +1,270 @@
+﻿west_slavic = {
+	color = hsv { 0.2  0.7  0.7 }
+
+    levy_template = levy_conscripts
+
+    primary = conscripts
+    secondary = conscripts
+    flank = conscripts
+
+    primary_navy = tetrere
+    secondary_navy = octere
+    flank_navy = liburnian
+    male_names = {
+		Oleg Igor
+	}
+	female_names = {
+		Anna Olga
+	}
+	family = {
+		Godunov.Godunova.Godunov.Godunov
+		Tikhonov.Tikhonova.Tikhonov.Tikhonov
+		Ryzhkov.Ryzhkova.Ryzhkov.Ryzhkov
+		Putin.Putina.Putin.Putin
+		Silayev.Silayeva.Silayev.Silayev
+		
+	}
+
+	culture = {
+		polish = {
+				male_names = {
+					 Abraham Adam Adolf Adrian Arkadiusz Albert Aleksander Alfons Alojzy Ambroży Anatol Andrzej Antoni Artur August Baltazar Barnaba Bartłomiej Bartosz Bernard Błażej Boguchwał Bogumił Bogurad Bogusław Bolesław Bonawentura Bonifacy Borys Bronisław Celestyn Cezary Cyryl Czesław Damian Daniel Dariusz Dawid Długosz Domarad Dominik Dzierżykraj Edmund Edward Emil Ernest Eryk Eugeniusz Fabian Feliks Ferdynand Filip Franciszek Fryderyk Gabriel Gniewosz Gracjan Grzegorz Gustaw Hieronim Hipolit Hubert Ignacy Ireneusz Iwan Izaak Izajasz Jakub Jan "Jan Kazimierz" "Jan Maria" Jarosław Jerzy Jonatan Juliusz Justyn Józef Kacper Kajetan Karol Kazimierz Klementyn Krystian Krzysztof Leon Lesław Ludwik Łukasz Mateusz Maurycy Michał Mieczysław Mieszko Mikołaj Miłosz Mirosław Oskar Paweł Piotr Przemysław Radosław Radzim Robert Roman Romuald Rudolf Ryszard Samuel Sebastian Seweryn Sławomir Stanisław Stefan Sylwester Szczepan Szymon Tadeusz Teodor Teofil Tomasz Wacław Waldemar Waleriusz Walery Wilhelm Władysław Wojciech Zbigniew Zenon
+				}
+				female_names = {
+					Ada Adelajda Aga Agnieszka Aleksandra Alicja Amanda Anastazja Aneta Anna Apolonia Barbara Beata Benedykta Bernadeta Bogdana Bogumiła Bronisława Brygida Cecylia Celestyna Dobrosława Dominika Dorota Eugenia Ewa Franciszka Gabriela Genowefa Hanna Helena Henryka Hildegarda Honorata Iga Irena Irmina Iwona Izabela Jadwiga Janina Jagoda Joanna Judyta Julia Justyna Józefa Klaudia Katarzyna Krystyna Leokadia Łucja Magda Maria Marianna Marta Monika Nadia Natalia Oliwia Patrycja Paulina Petronela Renata Roksana Róża Stanisława Stefania Teresa Telimena Urszula Władysława Zbigniewa Zdzisława Zofia Zuzanna
+
+				}
+				family = {
+			Baran.Baran.Baran.Baran 
+			Baranowski.Baranowska.Baranowski.Baranowski
+			Brzęczyszczykiewicz.Brzęczyszczykiewicz.Brzęczyszczykiewicz.Brzęczyszczykiewicz
+			Chełmiński.Chełmińska.Chełmiński.Chełmiński
+			Cybulski.Cybulska.Cybulska.Cybulska 
+			Czartoryski.Czartoryska.Czartoryski.Czartoryski
+			Dąbrowski.Dąbrowska.Dąbrowski.Dąbrowski 
+			Domeyko.Domeyko.Domeyko.Domeyko
+			Drzewiecki.Drzewiecka.Drzewiecki.Drzewiecki
+			Dunin.Dunin.Dunin.Dunin
+			Gąsiorowski.Gąsiorowska.Gąsiorowski.Gąsiorowski
+			Haller.Haller.Haller.Haller
+			Hoffman.Hoffman.Hoffman.Hoffman
+			Jankowski.Jankowska.Jankowski.Jankowski 
+			Jędrzejczyk.Jędrzejczyk.Jędrzejczyk.Jędrzejczyk
+			Kaczmarek.Kaczmarek.Kaczmarek.Kaczmarek 
+			Kamiński.Kamińska.Kamiński.Kamiński 
+			Kowalczyk.Kowalczyk.Kowalczyk.Kowalczyk 
+			Kowalski.Kowalska.Kowalski.Kowalski
+			Kownacki.Kownacka.Kownacki.Kownacki
+			Kozicki.Kozicka.Kozicki.Kozicki 
+			Kozłowski.Kozłowska.Kozłowski.Kozłowski 
+			Kwiatkowski.Kwiatkowska.Kwiatkowski.Kwiatkowski
+			Lewandowski.Lewandowska.Lewandowski.Lewandowski
+			Lewicki.Lewicka.Lewicki.Lewicki 
+			Lipski.Lipska.Lipski.Lipski 
+			Malczewski.Malczewska.Malczewski.Malczewski
+			Małachowski.Małachowska.Małachowski.Małachowski
+			Mazur.Mazur.Mazur.Mazur 
+			Morawski.Morawska.Morawski.Morawski
+			Mościcki.Mościcka.Mościcki.Mościcki 
+			Narutowicz.Narutowicz.Narutowicz.Narutowicz 
+			Nowak.Nowak.Nowak.Nowak 
+			Osiński.Osińska.Osiński.Osiński
+			Ossoliński.Ossolińska.Ossoliński.Ossolińska
+			Ostrowski.Ostrowska.Ostrowski.Ostrowski 
+			Piłsudski.Piłsudska.Piłsudski.Piłsudski 
+			Poniatowski.Poniatowska.Poniatowski.Poniatowski
+			Potocki.Potocka.Potocki.Potocki 
+			Radziwill.Radziwill.Radziwill.Radziwill
+			Rataj.Rataj.Rataj.Rataj 
+			Rayski.Rayska.Rayski.Rayski
+			Rozwadowski.Rozwadowska.Rozwadowski.Rozwadowski
+			Rybicki.Rybicka.Rybicki.Rybicki
+			Sanguszko.Sanguszko.Sanguszko.Sanguszko
+			Schindler.Schindler.Schindler.Schindler
+			Sosnowski.Sosnowska.Sosnowski.Sosnowski
+			Szymański.Szymańska.Szymański.Szymański 
+			Tyssowski.Tyssowska.Tyssowski.Tyssowski
+			Wielopolski.Wielopolska.Wielopolski.Wielopolski 
+			Wiśniewski.Wiśniewska.Wiśniewski.Wiśniewski 
+			Wodzicki.Wodzicka.Wodzicki.Wodzicki
+			Wojciechowski.Wojciechowska.Wojciechowski.Wojciechowski 
+			Woźniak.Woźniak.Woźniak.Woźniak 
+			Wysocki.Wysocka.Wysocki.Wysocki 
+			Wójcik.Wójcik.Wójcik.Wójcik 
+			Zając.Zając.Zając.Zając 
+			Zaleski.Zaleska.Zaleski.Zaleski 
+			Zieliński.Zielińska.Zieliński.Zieliński
+			Żółkiewski.Żółkiewska.Żółkiewski.Żółkiewski
+
+				}
+		}
+		czech = {
+			male_names = {
+				Albert Albrecht Aleš Alexandr Arnost Bavor Bedřich Benedikt Beneš Boček Bohuslav Boleslav Bořek Bořivoj Bratislav Bronislav Břetislav Budivoj Castolov Celestýn Ctibor Ctislav Cyprián Cyril Čeněk Dagobert Dalibor Daniel Dětřich Depold Dobroslav Dušan Eduard Egon Emil Ferdinand Florián Frantisek Gerhard Gustav Hanuš Havel Helmut Heralt Heřman Hynek Jáchym Jakub Jan "Jan Nepomuk" Jaromír Jaroslav Jeroným Jindřich Jiří Josef Julius Kamil Karel Kašpar Kazimír Konrád Kristián Kryštof Ladislav Leopold Libor Litold Lubomír Luboš Luděk Ludomír Ludvík Lukáš Lumír Marek Marián Markvart Martin Matouš Matěj Matyáš Michal Mikulás Miloslav Miloš Miroslav Mojmír Mořic Oldřich Ondřej Oskar Otakar Otto Pavel Petr Pravoslav Přemysl Prokop Přibyslav Radek Radim Radomír Radoslav Raimund Ratibor Reinhard Robert Roman Rostislav Rudolf Sebastian Sigmund Slávek Slavomír Soběslav Svatopluk Štefan Štěpán Tobiáš Tomáš Ulrich Václav Valdemar Viktor Vítězslav Vilém Vladimír Vladimír Vladislav Vlastimil Vojtěch Vratislav Vítek Záviš Zbyněk Zbyšek Zdeněk Zikmund 
+			}
+			female_names = {
+				Adéla Alena Andrea Anežka Anna Barbora Bedřiška Blažena Bohuslava Božena Bozislava Bronislava Dobromila Dobroslava Dagmar Domaslava Dorota Doubravka Drahomíra Drahoslava Eliška Eva Gertruda Guta Hana Helena Hedvika Helena Irena Jana Jarmila Jaroslava Jiřina Jitka Kateřina Klára Kristýna Lenka Libuše Lucie Ludmila Marcela Marie Markéta Marta Martina Michala Miroslava Monika Oldřiška Olga Pavla Petra Perchta Renáta Růžena Sofie Stanislava Svatava Světlana Tereza Věra Veronika Vlasta Vladislava Vojslava Zdeňka Zdislava Zuzana
+
+			}
+			family = {
+				Baborovský.Baborovská.Baborovský.Baborovský 
+				Chotek.Chotková.Chotek.Chotek 
+				Čelanský.Čelanská.Čelanský.Čelanský
+				Dobrovský.Dobrovská.Dobrovský.Dobrovský
+				Dvořák.Dvořáková.Dvořák.Dvořák
+				Frič.Fričová.Frič.Frič
+				Fučík.Fučíková.Fučík.Fučík
+				Hálek.Hálková.Hálek.Hálek 
+				Holub.Holubová.Holub.Holub
+				Janoušek.Janoušková.Janoušek.Janoušek
+				Jesenský.Jesenská.Jesenský.Jesenský 
+				Jeřábek.Jeřábková.Jeřábek.Jeřábek
+				Jireček.Jirečková.Jireček.Jireček
+				Jungmann.Jungmannová.Jungmann.Jungmann
+				Kinský.Kinská.Kinský.Kinský 
+				Koláček.Koláčková.Koláček.Koláček
+				Kounic.Kounicová.Kounic.Kounic 
+				Křížkovský.Křížkovská.Křížkovský.Křížkovský
+				Kutscha.Kutschová.Kutscha.Kutscha 
+				Lichnovský.Lichnovská.Lichnovský.Lichnovský 
+				Lobkovic.Lobkovicová.Lobkovic.Lobkovic 
+				Mucha.Muchová.Mucha.Mucha
+				Nostitz.Nostitzová.Nostitz.Nostitz 
+				Rosenberg.Rosenbergová.Rosenberg.Rosenberg 
+				Vítkovec.Vítkovcová.Vítkovec.Vítkovec
+				Waldstein.Waldsteinová.Waldstein.Waldstein 
+				Zerotín.Zerotínová.Zerotín.Zerotín 
+			}
+		}
+		slovak = {
+			male_names = {
+				Alexander Adam Adolf Anton Augustín Daniel Dušan Dominik Eduard Erik Ferdinand Filip František Gejza Jakub Jozef Juraj Jaroslav Ján Július Karol Ladislav Lukaš Marek Martin Matej Matúš Michal Milan Miloš Miroslav Otomar Ondrej Patrik Pavol Peter Rudolf Tomaš Václav Vladimir Ľudovít Štefan
+			}
+			female_names = {
+				Alexandra Adléta Anna Božena Dana Daniela Dominika Eva Jana Janka Katarina Lenka Lucia Margita Martina Miroslava Monika Mária Ružena Veronika Zuzana
+			}
+			family = {
+
+				Balog.Balogová.Balog.Balog 
+				Baláž.Baláž.Baláž.Baláž 
+				Bartoš.Bartošová.Bartoš.Bartoš 
+				Farkaš.Farkašová.Farkaš.Farkaš 
+				Gajdoš.Gajdošová.Gajdoš.Gajdoš 
+				Gábor.Gáborová.Gábor.Gábor 
+				Horváth.Horváthová.Horváth.Horváth 
+				Hudec.Hudecová.Hudec.Hudec 
+				Hudák.Hudáková.Hudák.Hudák 
+				Kiss.Kissová.Kiss.Kiss 
+				Kollar.Kollarová.Kollar.Kollar 
+				Kovács.Kovácsová.Kovács.Kovács 
+				Kováč.Kováčová.Kováč.Kováč.Kováč 
+				Kováčik.Kováčiková.Kováčik.Kováčik 
+				Lacko.Lacková.Lacko.Lacko 
+				Lakatoš.Lakatošová.Lakatoš.Lakatoš 
+				Lukáč.Lukáčová.Lukáč.Lukáč 
+				Molnár.Molnárová.Molnár.Molnár 
+				Nagy.Nagyová.Nagy.Nagy 
+				Novák.Nováková.Novák.Novák 
+				Németh.Némethová.Németh.Németh 
+				Oláh.Oláhová.Oláh.Oláh 
+				Oravec.Oravcová.Oravec.Oravec 
+				Pavlík.Pavlíková.Pavlík.Pavlík 
+				Polák.Poláková.Polák.Polák 
+				Szabó.Szabová.Szabó.Szabó 
+				Tóth.Tóthová.Tóth.Tóth 
+				Urban.Urbanová.Urban.Urban 
+				Varga.Vargová.Varga.Varga 
+				Šimko.Šimková.Šimko.Šimko
+				
+			}
+		}
+		sorbian = {
+			male_names = {
+				Albert Alfons Arnošt Artur Awgust Bart Bjarnat Erich Erwin Fryco Gerald Hajno Handrij Hanzo Helmut Hendrich Hync Jakub Jan Jurij Korla Mato Maćij Michał Mikławš Měrćin Pawoł Rudolf Timo Uwe Werner Wjacław
+			}
+			female_names = {
+				Angela Anja Christa Diana Doris Edith Hanka Hilda Ingrid Jutta Jěwa Lubina Madlena Marja Mina Olga Pawlina Roža Tanja Uta
+			}
+			family = {
+Andricki.Andricka.Andricki.Andricki 
+Budar.Budarowa.Budar.Budar 
+Cyž.Cyž.Cyž.Cyž 
+Frencel.Frenclowa.Frencel.Frencel 
+Jakula.Jakula.Jakula.Jakula 
+Jenč.Jenč.Jenč.Jenč 
+Koch.Koch.Koch.Koch 
+Kocor.Kocor.Kocor.Kocor 
+Krawcec.Krawcec.Krawcec.Krawcec 
+Krušwica.Krušwica.Krušwica.Krušwica 
+Kósyk.Kósyk.Kósyk.Kósyk 
+Młynk.Młynkowa.Młynk.Młynk 
+Nagel.Naglowa.Nagel.Nagel 
+Nawka.Nawka.Nawka.Nawka 
+Njechorński.Njechorńska.Njechorński.Njechorński 
+Nowak.Nowakowa.Nowak.Nowak 
+Pilk.Pilk.Pilk.Pilk 
+Smoler.Smoler.Smoler.Smoler
+Stempel.Stempel.Stempel.Stempel
+Surowin.Surowinowa.Surowin.Surowin 
+Witkojc.Witkojc.Witkojc.Witkojc
+Wjela.Wjela.Wjela.Wjela
+Zejler.Zejler.Zejler.Zejler 
+Ćišinski.Ćišinska.Ćišinski.Ćišinski 
+Čornakec.Čornakec.Čornakec.Čornakec 
+Šěnec.Šěnec.Šěnec.Šěnec
+
+			}
+		}
+		silesian = {
+			male_names = {
+				Adam Adolf Alojzy Alois Andrzej Antoni Atanazy Bonifacy Bruno Edmund Edward Emil Erich Egon Eugeniusz Franciszek Franz Georg Grzegorz Gerhard Hans Helmut Hermann Hubert Ignacy Jan Johann Jerzy Józef Karol Klemens Leopold Marcin Martin Marek Markus Michał Otto Piotr Paweł Richard 					Robert Stefan Teodor Tomasz Udo Wacław Waldemar Wincenty Wojciech Wolfgang Zygmunt
+			}
+		
+			female_names = {
+				Anna Adelajda Agnieszka Aleksandra Beata Barbara Bernadeta Brygida Elżbieta Eugenia Ewa Franciszka Genowefa Hanna Helena Henryka Hildegarda Honorata Iga Irena Izabela Jadwiga Judyta Katarzyna Leokadia Lidia Magda Maria Małgorzata Petronela Renata Stefania Teresa Telimena Urszula Zofia 				Zuzanna
+			}
+			family = {
+				Achtelik.Achtelik.Achtelik.Achtelik
+				Baran.Baran.Baran.Baran 
+				Brylka.Brylka.Brylka.Brylka
+				Franiel.Franiel.Franiel.Franiel
+				Giebel.Giebel.Giebel.Giebel
+				Golda.Golda.Golda.Golda
+				Gołąb.Gołąb.Gołąb.Gołąb
+				Gorzołka.Gorzołka.Gorzołka.Gorzołka
+				Grajek.Grajek.Grajek.Grajek
+				Huwer.Huwer.Huwer.Huwer
+				Jadasch.Jadasch.Jadasch.Jadasch
+				Kempka.Kempka.Kempka.Kempka
+				Kleinwächter.Kleinwächter.Kleinwächter.Kleinwächter
+				Klucewicz.Klucewicz.Klucewicz.Klucewicz
+				Kokot.Kokot.Kokot.Kokot
+				Korfanty.Korfanty.Korfanty.Korfanty
+				Krawiec.Krawiec.Krawiec.Krawiec
+				Mende.Mende.Mende.Mende
+				Pasternak.Pasternak.Pasternak.Pasternak
+				Pietrzyk.Pietrzyk.Pietrzyk.Pietrzyk
+				Reimann.Reimann.Reimann.Reimann
+				Rybarz.Rybarz.Rybarz.Rybarz
+				Schubert.Schubert.Schubert
+				Surma.Surma.Surma.Surma
+				Szaforz.Szaforz.Szaforz.Szaforz
+				Szczeponik.Szczeponik.Szczeponik.Szczeponik
+				Szulik.Szulik.Szulik.Szulik
+				Tyczka.Tyczka.Tyczka.Tyczka
+				Ulitz.Ulitz.Ulitz.Ulitz.
+				Walenta.Walenta.Walenta.Walenta
+				Wieczorek.Wieczorek.Wieczorek.Wieczorek
+				Zub.Zub.Zub.Zub
+				}
+		}
+	}
+	
+	barbarian_names = { WEST_SLAVIC }
+	
+	graphical_culture = western_1815_gfx
+	
+	ethnicities = {
+		10 = northern
+	}	
+}

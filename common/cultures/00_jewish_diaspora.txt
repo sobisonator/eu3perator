@@ -1,0 +1,289 @@
+﻿jewish_diaspora = {
+	color = rgb { 0  40  255 }
+
+    levy_template = levy_conscripts
+
+    primary = conscripts
+    secondary = conscripts
+    flank = conscripts
+
+    primary_navy = tetrere
+    secondary_navy = octere
+    flank_navy = liburnian
+    male_names = {
+		Chaikeh Eli Jonah Asher Aron Abel Abraham Avraam Bernal Berthold Immanuel Gabriel Gershon Gideon Isaac Israel Issachar Jacob Joel Joseph Mordecai Manasseh Moses Naftali Nathan Reuven Samson Samuel Simeon Simon Solomon Yohanan Zachariah Chaim Moshe Malachi Jaffe Maimon Melamed Nathan Karl Amiel Benjamin Lazarus Matai Meshach Noah Shulamith Shylock Seraphim Seth Shafir Shailen Saul Tivon Yechezkel Yehudi Yan Yanis Ronas Yosef Tobias Tov Dov Zakai Zakur Zamir Zabulon
+	}
+	female_names = {
+		Edel Gitl Glickl Perl Sarah Bathsheba Margolis Ariel Arnon Beryl Bracha Chaka Chanah Daga Danuta Davan Dodie Dorrit Edna Elam Hariel Hadassa Hila Janica Jariah Jemima Jerusha Jezebel Joan Liana Miriam Mariam Mariah Mara Naysa Neorah Netta Nisi Rachel Rayna Richael Shaine Sharay Shari Sharon Sheba Susan Tamra Tebeth Tema Temira Thadine Tiarra Timera Tivona Tobit Tora Tova Tzlia Yadira Vida Zayra Zana Zuriel Zeph Zephath Zhalore Rita
+	}
+	family = {
+		Chotek.Chotek.Chotek.Chotek
+		Lichnowsky.Lichnowsky.Lichnowsky.Lichnowsky
+		Lobkowicz.Lobkowicz.Lobkowicz.Lobkowicz
+		Nostitz.Nostitz.Nostitz.Nostitz
+		Kutscha.Kutscha.Kutscha.Kutscha
+		Kounic.Kounic.Kounic.Kounic
+		Vítkovec.Vítkovec.Vítkovec.Vítkovec
+		Zerotín.Zerotín.Zerotín.Zerotín
+		Czernín.Czernín.Czernín.Czernín
+		Kinsky.Kinsky.Kinsky.Kinsky
+		
+	}
+
+	culture = {
+		ashkenazi = {
+			male_names = {
+				Abel Abraham Adam Ahron Amiel Amir Amos Aron Ariel Asher Avraam Baruch Benjamin Berl Bernal Chaim Daniel Dov Eli Eleazar Emanuel Froim Gabriel Gershon Gideon Isaac Israel Issachar Jacob Joel Jonah Jonas Jonathan Joseph Levi Maimon Malachi Manasseh Meir Menahem Mordecai Moses Moshe Naphtali Nathan Noah Phineas Reuven Samson Samuel Saul Schmul Seth Shimon Simcha Simeon Solomon Tzvi Tuvia Yechezkel Yehoshua Yehudi Yitzhak Yohanan Yosef Zachariah Zalman Zamir Zelig Zvi
+			}
+			female_names = {
+				Aila Alma Anna Anita Bathsheba Chaikeh Clara Deborah Dorrit Edel Edith Elisabeth Emma Erna Evelyn Gitl Hadassa Hana Helena Hila Ida Jerusha Jezebel Johanna Julia Karin Leah Mara Mariah Mirel Miriam Monika Rachel Rayna Rebecca Renate Rita Ruth Sarah Sharon Shoshana Tehila Theresa Tova 
+			}
+			family = {
+				
+				
+	
+	
+	Alterman.Alterman.Alterman.Alterman
+	Apfelbaum.Apfelbaum.Apfelbaum.Apfelbaum
+	Bauer.Bauer.Bauer.Bauer 
+	Becker.Becker.Becker.Becker 
+	Berkowitz.Berkowitz.Berkowitz.Berkowitz  
+	Bernstein.Bernstein.Bernstein.Bernstein
+	Birnbaum.Birnbaum.Birnbaum.Birnbaum 
+	Blum.Blum.Blum.Blum
+	Braun.Braun.Braun.Braun 
+	Cohen.Cohen.Cohen.Cohen 
+	Einstein.Einstein.Einstein.Einstein 
+	Eisenstein.Eisenstein.Eisenstein.Eisenstein 
+	Feldmann.Feldmann.Feldmann.Feldmann
+	Feuchtwanger.Feuchtwanger.Feuchtwanger.Feuchtwanger 
+	Fichtenholz.Fichtenholz.Fichtenholz.Fichtenholz 
+	Fischer.Fischer.Fischer.Fischer Fischl.Fischl.Fischl.Fischl 
+	Frank.Frank.Frank.Frank Franzmann.Franzmann.Franzmann.Franzmann 
+	Garfunkel.Garfunkel.Garfunkel.Garfunkel 
+	Goldberg.Goldberg.Goldberg.Goldberg 
+	Goldblum.Goldblum.Goldblum.Goldblum 
+	Goldfarb.Goldfarb.Goldfarb.Goldfarb 
+	Goldmann.Goldmann.Goldmann.Goldmann 
+	Gollancz.Gollancz.Gollancz.Gollancz 
+	Grünblatt.Grünnblatt.Grünnblatt.Grünnblatt 
+	Grünspan.Grünspan.Grünspan.Grünspan
+	Gutfrend.Gutfrend.Gutfrend.Gutfrend 
+	Heilprin.Heilprin.Heilprin.Heilprin 
+	Hoffman.Hoffman.Hoffman.Hoffman 
+	Kagan.Kagan.Kagan.Kagan
+	Kahn.Kahn.Kahn.Kahn
+	Katz.Katz.Katz.Katz 
+	Klein.Klein.Klein.Klein 
+	Krawitz.Krawitz.Krawitz.Krawitz. 
+	Lehmann.Lehmann.Lehmann.Lehmann 
+	Levinson.Levinson.Levinson.Levinson
+	Liebermann.Liebermann.Liebermann.Liebermann.
+	Loeb.Loeb.Loeb.Loeb
+	Meyer.Meyer.Meyer.Meyer 
+	Perlmutter.Perlmutter.Perlmutter.Perlmutter
+	Rabinowich.Rabinowich.Rabinowich.Rabinowich
+	Rappaport.Rappaport.Rappaport.Rappaport
+	Reichmamn.Reichmamn.Reichmamn.Reichmamn 
+	Rosenberg.Rosenberg.Rosenberg.Rosenberg 
+	Rosenblatt.Rosenblatt.Rosenblatt.Rosenblatt
+	Rosenzweig.Rosenzweig.Rosenzweig.Rosenzweig
+	Salomon.Salomon.Salomon.Salomon
+	Schapiro.Schapiro.Schapiro.Schapiro
+	Schmidt.Schmidt.Schmidt.Schmidt 
+	Schneider.Schneider.Schneider.Schneider 
+	Schulman.Schulman.Schulman.Schulman 
+	Schwarz.Schwarz.Schwarz.Schwarz 
+	Schäfer.Schäfer.Schäfer.Schäfer 
+	Teitelbaum.Teitelbaum.Teitelbaum.Teitelbaum
+	Ullmann.Ullmann.Ullmann.Ullmann
+	Vogelstein.Vogelstein.Vogelstein.Vogelstein
+	Wassermann.Wassermann.Wassermann.Wassermann
+	Zimmermann.Zimmermann.Zimmermann.Zimmermann
+	Zuckerberg.Zuckerberg.Zuckerberg.Zuckerberg
+	Zuckermann.Zuckermann.Zuckermann.Zuckermann
+			}
+		}
+
+		sephardi = {
+			male_names = {
+				Chaikeh Eli Jonah Asher Aron Abel Abraham Avraam Bernal Manuel Immanuel Gabriel Gershon Gideon Isaac Israel Issachar Jacob Joel Joseph Mordecai Manasseh Moses Naftali Nathan Reuven Samson Samuel Simeon Simon Solomon Yohanan Zachariah Chaim Moshe Malachi Jaffe Maimon Melamed Nathan Carlos Amiel Benjamin Lazarus Matai Meshach Noah Shulamith Shylock Seraphim Seth Shafir Shailen Saul Tivon Yechezkel Yehudi Yan Yanis Ronas Yosef Tobias Tov Dov Zakai Zakur Zamir Zabulon Juan Giacomo José Martín Henri Emilio René Salvador Franco Serge Patrick
+			}
+			female_names = {
+				Glickl Perl Sarah Bathsheba Margolis Carmel Ariel Arnon Beryl Bracha Chaka Chanah Daga Danuta Davan Dodie Dorrit Edna Elam Hariel Hadassa Hila Janica Jariah Jemima Jerusha Jezebel Joan Liana Miriam Mariam Mariah Mara Naysa Neorah Netta Nisi Rachel Rayna Richael Shaine Sharay Shari Sharon Sheba Susan Tamra Tebeth Tema Temira Thadine Tiarra Timera Tivona Tobit Tora Tova Tzlia Yadira Vida Zayra Zana Zuriel Zeph Zephath Zhalore Rita
+			}
+			family = {
+				Brito.Brito.Brito.Brito
+				Cohen.Cohen.Cohen.Cohen
+				Barzilai.Barzilai.Barzilai.Barzilai
+				Behar.Behar.Behar.Behar
+				Benetton.Benetton.Benetton.Benetton
+				Bocarro.Bocarro.Bocarro.Bocarro
+				Carbalho.Carbalho.Carbalho.Carbalho
+				Cardozo.Cardozo.Cardozo.Cardozo
+				Duarte.Duarte.Duarte.Duarte
+				Dayan.Dayan.Dayan.Dayan
+				Elhadad.Elhadad.Elhadad.Elhadad
+				Espinoza.Espinoza.Espinoza.Espinoza
+				Ezra.Ezra.Ezra.Ezra
+				Galo.Galo.Galo.Galo
+				Gattegno.Gattegno.Gattegno.Gattegno
+				Lopez.Lopez.Lopez.Lopez
+				Meneses.Meneses.Meneses.Meneses
+				Masliah.Masliah.Masliah.Masliah
+				Luna.Luna.Luna.Luna
+				Oliveira.Oliveira.Oliveira.Oliveira
+				Salazar.Salazar.Salazar.Salazar
+				Suárez.Suárez.Suárez.Suárez
+				Souza.Souza.Souza.Souza
+				Varon.Varon.Varon.Varon
+				Vidal.Vidal.Vidal.Vidal.Vidal
+				Zaldivar.Zaldivar.Zaldivar.Zaldivar
+				Colon.Colon.Colon.Colon
+				Galante.Galante.Galante.Galante
+				Petito.Petito.Petito.Petito.Petito
+				Modiano.Modiano.Modiano.Modiano
+				Modigliani.Modigliani.Modigliani.Modigliani
+				Moissan.Moissan.Moissan.Moissan
+				Canetti.Canetti.Canetti.Canetti
+				Benacerraf.Benacerraf.Benacerraf.Benacerraf
+				Luria.Luria.Luria.Luria.Luria
+			}
+		}
+
+		italki = {
+			male_names = {
+				Primo Elia Elìas Elio Giona Aronne Abele Abramo Ciro Prospero Manuele Immanuel Emanuele Esaù Davide David Gabriele Gideone Michele Isacco Israel Issachar Giacobbe Gioele Giuseppe Mordecai Moses Naftali Sansone Samuel Samuele Simeone Simon Simone Solomone Zaccaria Malachia Beniamino Giobbe Lazzaro Noè Shulamith Tullio Serafino Seth Saulo Taddeo Giovanni Yanis Ronas Silvio Tobia Giacomo Enrico Emilio René Salvatore Franco Felice Sergio Oscar Hugo Ugo Haim Aldo Arturo Angelo Azaria Shlomo Sisto Vittorio Umberto Giacomo Cino
+			}
+			female_names = {
+				 Valeria Aida Anita Arianna Perla Elvira Margherita Sara Dalia Ariel Prospera Andra Anna Tatiana Serafina Ada Bracha Carmela Bethany Giuditta Gabriela Samuela Simona Giovanna Ester Franca Alberta Vittoria Umberta Edna Elam Gezabele Liana Miriam Mariam Maria Mara Nera Rachel Rachele Sharon Sheba Susanna Tamara Taddea Debora Deborah Timera Talia Rita Glickl Giulia Julie Marta Laura Salomè Silvia Lia Irene Raffaella Magdalena Maddalena Michela Vera Gessica 
+			}
+			family = {
+				Artom.Artom.Artom.Artom
+				Ascoli.Ascoli.Ascoli.Ascoli
+				Brescia.Brescia.Brescia.Brescia
+				Colombo.Colombo.Colombo.Colombo
+				Cohen.Cohen.Cohen.Cohen
+				Coen.Coen.Coen.Coen
+				Como.Como.Como.Como
+				Cremona.Cremona.Cremona.Cremona
+				Barzilai.Barzilai.Barzilai.Barzilai
+				Behar.Behar.Behar.Behar
+				Benetton.Benetton.Benetton.Benetton
+				Bachi.Bachi.Bachi.Bachi
+				Calabresi.Calabresi.Calabresi.Calabresi
+				Carpi.Carpi.Carpi.Carpi
+				Cantoni.Cantoni.Cantoni.Cantoni
+				Fano.Fano.Fano.Fano
+				Ferri.Ferri.Ferri.Ferri
+				Finzi.Finzi.Finzi.Finzi
+				Fiorentini.Fiorentini.Fiorentini
+				Foà.Foà.Foà.Foà
+				Franceschini.Franceschini.Franceschini.Franceschini
+				Fubini.Fubini.Fubini.Fubini
+				Efrati.Efrati.Efrati.Efrati
+				De Benedetti.De Benedetti.De Benedetti.De Benedetti
+				D'Ancona.D'Ancona.D'Ancona.D'Ancona
+				Da Como.Da Como.Da Como.Da Como
+				Di Segni.Di Segni.Di Segni.Di Segni
+				Della Seta.Della Seta.Della Seta.Della Seta
+				Della Rocca.Della Rocca.Della Rocca.Della Rocca
+				Ezra.Ezra.Ezra.Ezra
+				Guastalla.Guastalla.Guastalla.Guastalla
+				Gattegno.Gattegno.Gattegno.Gattegno
+				Ginzburg.Ginzburg.Ginzburg.Ginzburg
+				Gluck.Gluck.Gluck.Gluck
+				Iezzi.Iezzi.Iezzi.Iezzi
+				Liegi.Liegi.Liegi.Liegi
+				Lombroso.Lombroso.Lombroso.Lombroso
+				Luzzatto.Luzzatto.Luzzatto.Luzzatto
+				Mayer.Mayer.Mayer.Mayer
+				Milano.Milano.Milano.Milano
+				Montalcino.Montalcino.Montalcino.Montalcino.
+				Montefiore.Montefiore.Montefiore.Montefiore
+				Levi.Levi.Levi.Levi
+				Livorno.Livorno.Livorno.Livorno
+				Luna.Luna.Luna.Luna
+				Piperno.Piperno.Piperno.Piperno
+				Ravenna.Ravenna.Ravenna.Ravenna
+				Ottolenghi.Ottolenghi.Ottolenghi.Ottolenghi
+				Schiff.Schiff.Schiff.Schiff
+				Segre.Segre.Segre.Segre
+				Sinigallia.Sinigallia.Sinigallia.Sinigallia
+				Spizzichino.Spizzichino.Spizzichino.Spizzichino
+				Supino.Supino.Supino.Supino
+				Venezia.Venezia.Venezia.Venezia
+				Vivanti.Vivanti.Vivanti.Vivanti
+				Zargani.Zargani.Zargani.Zargani
+				Orvieto.Orvieto.Orvieto.Orvieto
+				Galante.Galante.Galante.Galante
+				Petito.Petito.Petito.Petito.Petito
+				Modiano.Modiano.Modiano.Modiano
+				Modigliani.Modigliani.Modigliani.Modigliani
+				Morpurgo.Morpurgo.Morpurgo.Morpurgo.
+				Canetti.Canetti.Canetti.Canetti
+				Treves.Treves.Treves.Treves
+				Parenzo.Parenzo.Parenzo.Parenzo.
+			}
+		}
+		
+		mizrahi = {
+			male_names = {
+				Chaikeh Eli Jonah Asher Aron Abel Abraham Avraam Gabriel Gershon Gideon Isaac Israel Issachar Jacob Joel Joseph Mordecai Manasseh Moses Naftali Nathan Reuven Samson Samuel Simeon Simon Solomon Yohanan Zachariah Chaim Moshe Malachi Jaffe Maimon Melamed Nathan Amiel Benjamin Lazarus Matai Meshach Noah Shulamith Shylock Seraphim Seth Shafir Shailen Saul Tivon Yechezkel Yehudi Yan Yanis Ronas Yosef Tobias Tov Dov Zakai Zakur Zamir Zabulon
+			}
+			female_names = {
+				Perl Sarah Bathsheba Margolis Ariel Arnon Beryl Bracha Chaka Chanah Daga Danuta Davan Dodie Dorrit Edna Elam Hariel Hadassa Hila Janica Jariah Jemima Jerusha Jezebel Joan Liana Miriam Mariam Mariah Mara Naysa Neorah Netta Nisi Rachel Rayna Richael Shaine Sharay Shari Sharon Sheba Susan Tamra Tebeth Tema Temira Thadine Tiarra Timera Tivona Tobit Tora Tova Tzlia Yadira Vida Zayra Zana Zuriel Zeph Zephath Zhalore
+			}
+			family = {
+				Abrach.Abrach.Abrach.Abrach
+				Abocassis.Abocassis.Abocassis.Abocassis
+				Abu.Abu.Abu.Abu
+				Habibi.Habibi.Habibi.Habibi
+				Hadad.Hadad.Hadad.Hadad
+				Haziz.Haziz.Haziz.Haziz
+				Hysh.Hysh.Hysh.Hysh
+				Jamil.Jamil.Jamil.Jamil
+				Khalili.Khalili.Khalili.Khalili
+				Maklof.Maklof.Maklof.Maklof
+				Mofaz.Mofaz.Mofaz.Mofaz
+				Mograbi.Mograbi.Mograbi.Mograbi
+				Nazarian.Nazarian.Nazarian.Nazarian
+				Naqqash.Naqqash.Naqqash.Naqqash
+				Sabag.Sabag.Sabag.Sabag
+				Sassoon.Sassoon.Sassoon.Sassoon
+				Shamy.Shamy.Shamy.Shamy
+				Sharabani.Sharabani.Sharabani.Sharabani
+				Sheriki.Sheriki.Sheriki.Sheriki
+				Shirazi.Shirazi.Shirazi.Shirazi
+				Soliman.Soliman.Soliman.Soliman
+				Yarkoni.Yarkoni.Yarkoni.Yarkoni
+				Zangi.Zangi.Zangi.Zangi
+				Zeitouni.Zeitouni.Zeitouni.Zeitouni
+			}
+		}
+
+		krymchak = { # Turkic-speaking non-Karaite Jews
+			male_names = {
+				Chaikeh Eli Jonah Asher Aron Abel Abraham Avraam Gabriel Gershon Gideon Isaac Israel Issachar Jacob Joel Joseph Mordecai Manasseh Naftali Nathan Reuven Samson Samuel Simeon Simon Solomon Yohanan Zachariah Chaim Mosheh Malachi Jaffe Maimon Melamed Nathan Amiel Benjamin Lazarus Matai Meshach Noah Shulamith Shylock Seraphim Seth Shafir Shailen Saul Tivon Yechezkel Yehudi Yan Yanis Ronas Yosef Tobias Tov Dov Zakai Zakur Zamir Zabulon Chaim Hezekiah
+			}
+			female_names = {
+				Perl Sarah Bathsheba Margolis Ariel Arnon Beryl Bracha Chaka Chanah Daga Danuta Davan Dodie Dorrit Edna Elam Hariel Hadassa Hila Janica Jariah Jemima Jerusha Jezebel Joan Liana Miriam Mariam Mariah Mara Naysa Neorah Netta Nisi Rachel Rayna Richael Shaine Sharay Shari Sharon Sheba Susan Tamra Tebeth Tema Temira Thadine Tiarra Timera Tivona Tobit Tora Tova Tzlia Yadira Vida Zayra Zana Zuriel Zeph Zephath Zhalore
+			}
+			family = {
+				Medini.Medini.Medini.Medini
+				Kirimi.Kirimi.Kirimi.Kirimi
+				Lekhno.Lekhno.Lekhno.Lekhno
+				Barukh.Barukh.Barukh.Barukh
+				Kaya.Kaya.Kaya.Kaya
+			}
+		}
+	}
+	
+	barbarian_names = { JEWISH_DIASPORA }
+	
+	graphical_culture = western_1815_gfx
+	
+	ethnicities = {
+		10 = western
+	}	
+}

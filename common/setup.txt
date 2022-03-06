@@ -1,0 +1,14 @@
+family={
+	families={}
+}
+diplomacy = { }
+
+provinces = { }
+
+road_network = {}
+
+country = {
+	countries = {}
+}
+
+trade = { }

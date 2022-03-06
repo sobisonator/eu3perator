@@ -1,0 +1,29 @@
+definitions = "definition.csv"
+provinces = "provinces.bmp"
+positions = "positions.txt"
+terrain = "terrain.bmp"
+rivers = "rivers.bmp"
+topology = "heightmap.heightmap"
+adjacencies = "adjacencies.csv"
+areas = "areas.txt"
+regions = "regions.txt"
+ports = "ports.csv"
+climate = "climate.txt"
+
+#Seazones, list:
+#Seazones, Ranges:
+sea_zones = RANGE { 1391 1882 }
+
+#Wastelands, List:
+
+#Impassables, Ranges:
+
+#Uninhabitables, Ranges:
+
+#Lakes, Ranges:
+
+#Major Rivers
+
+#Lakes, List:
+
+
