@@ -8,7 +8,89 @@ provinces = { }
 road_network = {}
 
 country = {
-	countries = {}
+	countries = {
+		# WESTERN EUROPE
+		FRA = {
+			# family = 0
+			government = feudal_major
+			diplomatic_stance=warmongering_stance
+			primary_culture = french
+			religion = catholicism
+
+			capital = 669
+			
+			is_antagonist = yes
+		
+			own_control_core = 	{
+				57
+				63
+				126
+				157
+				406
+				477
+				499
+				586
+				635
+				646
+				669
+				680
+				704
+				758
+				848
+				912
+				978
+				1195
+				1260
+				1271
+				1282
+				1377
+				1384
+			}
+			
+			#professional_soldiers = yes
+			#organized_recruitment = yes
+			
+		}
+		ENG = {
+			# family = 0
+			government = feudal_major
+			diplomatic_stance=warmongering_stance
+			primary_culture = english
+			religion = catholicism
+
+			capital = 1385
+			
+			is_antagonist = yes
+		
+			own_control_core = 	{
+				67
+				76
+				150
+				178
+				184
+				208
+				422
+				668
+				689
+				690
+				714
+				735
+				746
+				780
+				781
+				802
+				826
+				1044
+				1200
+				1347
+				1385
+			}
+			
+			#professional_soldiers = yes
+			#organized_recruitment = yes
+			
+		}
+	}
 }
 
 trade = { }

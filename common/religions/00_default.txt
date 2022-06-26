@@ -1,0 +1,95 @@
+﻿# New
+catholicism = {
+ color = hsv { 0.08 0.08 0.08 }
+ diplomatic_relations = 1
+ # religion_category = sages
+}
+# OLD
+roman_pantheon = { # Hellenic
+	color = hsv { 0.65  0.7  0.8 }
+	global_citizen_happyness = 0.1
+}
+egyptian_pantheon = { # Kemetic
+	color = hsv { 0.15  1  0.7 }
+	ruler_popularity_gain = 0.1
+}
+carthaginian_pantheon = { # Canaanite
+	color = hsv { 0.75 0.9 0.73 }
+	navy_maintenance_cost = -0.1
+}
+shamanism = { # Zalmoxian
+	color = hsv { 0.0 0.5 1.0 }
+	global_tribesmen_output = 0.05
+}
+caucasian_religion = { # Armazic
+	color = { 0.3 0.1 0.4  }
+	global_defensive = 0.1
+}
+mesopotamian_religion = { # Chaldean
+	color = hsv { 0.05 1.0 0.5 }
+	global_monthly_civilization = 0.01
+}
+armenian_religion = { # Khaldic
+	color = { 0.3 0.1 0.2  }
+	global_freemen_output = 0.1
+}
+anatolian_religion = { # Cybelene
+	color = { 0.3 0.4 0.2  }
+	happiness_for_wrong_culture_modifier= 0.05
+}
+druidism = { # Druidic
+	color = hsv { 0.3 0.7 0.4 }
+	happiness_for_same_religion_modifier = 0.05
+}
+animism = { # Iberic
+	color = hsv { 0.07 1.0 1.0 }
+	global_import_commerce_modifier = 0.1
+}
+judaism = { # Jewish
+	color = hsv { 0.65 1.0 1.0 }
+	global_pop_assimilation_speed_modifier = 0.2
+}
+zoroaster = { # Zoroastriniams
+	color = hsv { 0.52 0.77 0.72 }
+	army_maintenance_cost = -0.05
+}
+berber_religion = { # Megalithic
+	color = hsv { 0.05  0.5  0.4 }
+	happiness_for_same_religion_modifier = 0.05
+}
+germanic_religion = { # Tuistic
+	color = hsv { 0.05 0.7 0.3 }
+	start_migration_cost_modifier = -0.1
+}
+indo_iranian_religion = { # Heptadic
+	color = hsv { 0.2 0.5 0.8 }
+	monthly_military_experience_modifier = 0.05
+}
+arabian_pantheon = { # Arabic
+	color = hsv { 0.3 0.7 0.6 }
+	global_tribesmen_happyness = 0.1
+}
+buddhism = { # Buddhism
+	color = hsv { 0.15 0.7 1 }
+	global_pop_conversion_speed_modifier = 0.3
+}
+hindu = { # Hinduism
+	color = hsv { 0.05 1 0.9 }
+	diplomatic_reputation = 1
+}
+eastern_animism = { # Ritualist
+	color = hsv { 0.03 0.7 0.7 }
+	diplomatic_relations = 1
+}
+bon_religion = { # Bon
+	color = hsv { 0.95 1.0 0.8 }
+	build_cost = -0.1
+}
+matrist_religion = { # Matrist
+	color = hsv { 0.5 0.4 0.7 }
+	manpower_recovery_speed = 0.05
+}
+jainism = { # Jain
+	color = hsv { 0.7 0.2 0.2 }
+	global_pop_promotion_speed_modifier = 0.25
+}

@@ -1,0 +1,64 @@
+REB = {
+	pattern = "pattern_diagonal_split_01.tga"
+	color1 = "phrygia_red"
+	color2 = "pitch_black"
+}
+
+BAR = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_black"
+	color2 = "phrygia_red"
+
+	textured_emblem = {
+		texture = "te_skull_goat.dds"
+	}
+}
+
+MER = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_black"
+	color2 = "roman_red"
+
+	textured_emblem = {
+		texture = "te_mercenary.dds"
+	}
+}
+
+PIR = {
+	pattern = "pattern_solid.tga"
+	color1 = "pitch_black"
+	color2 = "bone_white"
+
+	colored_emblem = {
+		texture = "ce_pirates.dds"
+		color1 = "bone_white"
+		color2 = "ck2_green"
+	}
+}
+
+ENG = {
+	pattern = "pattern_solid.tga"
+	color1 = "roman_red"
+	color2 = "roman_gold"
+
+	textured_emblem = {
+		texture = "texture = "generic/three_fleur_de_lys.dds""
+		instance = { position = { 0.3 0.3 } scale = { 0.4 0.4 }  } #top left
+		instance = { position = { 0.7 0.7 } scale = { -0.4 -0.4 }  } # bottom right
+	}
+	textured_emblem = {
+		texture = "texture = "tags/ENG/plantagenet.dds""
+		instance = { position = { 0.7 0.3 } scale = { -0.4 0.4 }  } # top right
+		instance = { position = { 0.3 0.7 } scale = { 0.4 -0.4 }  } # bottom left
+	}
+}
+
+FRA = {
+	pattern = "pattern_solid.tga"
+	color1 = "ck2_blue"
+	color2 = "roman_gold"
+
+	textured_emblem = {
+		texture = "generic/three_fleur_de_lys.dds"
+	}
+}

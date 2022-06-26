@@ -1,0 +1,10 @@
+﻿REB = "countries/rebels.txt"
+PIR = "countries/pirates.txt"
+BAR = "countries/barbarians.txt"
+MER = "countries/mercenaries.txt"
+
+# Greece/Macedonia
+#CRT = "countries/crete.txt"
+
+FRA = "countries/w_europe/france.txt"
+ENG = "countries/w_europe/england.txt"
